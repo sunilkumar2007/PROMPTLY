@@ -1,0 +1,10 @@
+const data = {"tech": "GitHub Actions", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['github actions','automation','module'], 661, 492, '2026-04-22T20:17:19.077390'),
+('Efficient General Utility #5', 'A high-quality code for education using General. Built for performance and scalability.', 'Code', 'Education', '// Sample Code content for Efficient General Utility #5
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','code'], 3304, 303, '2025-10-28T20:17:19.077417'),
+('Responsive Misc Navbar #6', 'A high-quality component for marketing using Misc. Built for performance and scalability.', 'Component', 'Marketing', '// Sample Component content for Responsive Misc Navbar #6
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','component','premium'], 3890, 531, '2025-09-06T20:17:19.077443'),
+('Generate Misc Boilerplate #7', 'A high-quality prompt for content creation using Misc. Built for performance and scalability.', 'Prompt', 'Content Creation', '// Sample Prompt content for Generate Misc Boilerplate #7
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','prompt','premium'], 1960, 1967, '2025-09-15T20:17:19.077467'),
+('Sanitize Hugging Face Data #8', 'A high-quality function for ai/ml using Hugging Face. Built for performance and scalability.', 'Function', 'AI/ML', '// Sample Function content for Sanitize Hugging Face Data #8
+const data = {"tech": "Hugging Face", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['hugging face','ai/ml','function','premium'], 2984, 645, '2026-04-21T20:17:19.077493'),
+('Interactive Misc Chart #9', 'A high-quality component for marketing using Misc. Built for performance and scalability.', 'Component', 'Marketing', '// Sample Component content for Interactive Misc Chart #9

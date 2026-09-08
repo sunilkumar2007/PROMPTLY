@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','function'], 2176, 869, '2025-09-26T20:17:19.090488'),
+('Generate General Boilerplate #255', 'A high-quality prompt for education using General. Built for performance and scalability.', 'Prompt', 'Education', '// Sample Prompt content for Generate General Boilerplate #255
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','prompt','premium'], 528, 1675, '2026-03-19T20:17:19.090521'),
+('Dart State Management #256', 'A high-quality module for mobile applications using Dart. Built for performance and scalability.', 'Module', 'Mobile Applications', '// Sample Module content for Dart State Management #256
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','module','premium'], 792, 1163, '2026-03-13T20:17:19.090545'),
+('Premium Next.js Kit #257', 'A high-quality ui/ux for website development using Next.js. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Premium Next.js Kit #257
+const data = {"tech": "Next.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['next.js','website','ui/ux'], 2411, 1466, '2026-06-25T20:17:19.090569'),
+('Validate Figma Input #258', 'A high-quality function for ui/ux using Figma. Built for performance and scalability.', 'Function', 'UI/UX', '// Sample Function content for Validate Figma Input #258
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','function'], 261, 902, '2026-01-30T20:17:19.090593'),
+('Animated TypeScript Button #259', 'A high-quality component for website development using TypeScript. Built for performance and scalability.', 'Component', 'Website Development', '// Sample Component content for Animated TypeScript Button #259

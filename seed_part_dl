@@ -1,0 +1,10 @@
+const data = {"tech": "React Native", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['react native','mobile','ui/ux'], 1087, 1330, '2026-01-27T20:17:19.096188'),
+('Responsive Misc Navbar #445', 'A high-quality component for content creation using Misc. Built for performance and scalability.', 'Component', 'Content Creation', '// Sample Component content for Responsive Misc Navbar #445
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','component','premium','open-source'], 4916, 711, '2025-09-06T20:17:19.096212'),
+('E-commerce with General #446', 'A high-quality project for data science using General. Built for performance and scalability.', 'Project', 'Data Science', '// Sample Project content for E-commerce with General #446
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','project','premium','open-source'], 2006, 83, '2026-06-13T20:17:19.096235'),
+('Master Misc with this AI Prompt #447', 'A high-quality prompt for content creation using Misc. Built for performance and scalability.', 'Prompt', 'Content Creation', '// Sample Prompt content for Master Misc with this AI Prompt #447
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','prompt'], 2764, 1189, '2025-08-30T20:17:19.096269'),
+('Minimal General Design #448', 'A high-quality ui/ux for productivity using General. Built for performance and scalability.', 'UI/UX', 'Productivity', '// Sample UI/UX content for Minimal General Design #448
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','ui/ux','premium','open-source'], 3384, 1293, '2026-07-16T20:17:19.096292'),
+('Premium Misc Kit #449', 'A high-quality ui/ux for business using Misc. Built for performance and scalability.', 'UI/UX', 'Business', '// Sample UI/UX content for Premium Misc Kit #449

@@ -1,0 +1,10 @@
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','ai/ml','ui/ux'], 4987, 1839, '2026-02-07T20:17:19.087482'),
+('Validate General Input #145', 'A high-quality function for marketing using General. Built for performance and scalability.', 'Function', 'Marketing', '// Sample Function content for Validate General Input #145
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','function','premium','open-source'], 4257, 333, '2025-10-09T20:17:19.087513'),
+('Responsive Kotlin Navbar #146', 'A high-quality component for mobile applications using Kotlin. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Responsive Kotlin Navbar #146
+const data = {"tech": "Kotlin", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['kotlin','mobile','component','open-source'], 4081, 578, '2026-05-14T20:17:19.087539'),
+('Clean Misc Hook #147', 'A high-quality code for education using Misc. Built for performance and scalability.', 'Code', 'Education', '// Sample Code content for Clean Misc Hook #147
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','code','premium'], 1909, 1087, '2025-08-30T20:17:19.087562'),
+('Enterprise Node.js Admin #148', 'A high-quality template for website development using Node.js. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Enterprise Node.js Admin #148
+const data = {"tech": "Node.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['node.js','website','template','premium'], 2615, 601, '2026-06-08T20:17:19.087585'),
+('Realtime General Chat #149', 'A high-quality project for productivity using General. Built for performance and scalability.', 'Project', 'Productivity', '// Sample Project content for Realtime General Chat #149

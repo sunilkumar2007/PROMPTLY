@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','ui/ux'], 3423, 1290, '2026-03-31T20:17:19.089697'),
+('Validate Figma Input #225', 'A high-quality function for ui/ux using Figma. Built for performance and scalability.', 'Function', 'UI/UX', '// Sample Function content for Validate Figma Input #225
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','function','premium','open-source'], 1655, 1361, '2026-01-07T20:17:19.089719'),
+('Minimal Misc Design #226', 'A high-quality ui/ux for marketing using Misc. Built for performance and scalability.', 'UI/UX', 'Marketing', '// Sample UI/UX content for Minimal Misc Design #226
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','ui/ux','premium','open-source'], 988, 524, '2026-08-04T20:17:19.089741'),
+('Enterprise Python Admin #227', 'A high-quality template for ai/ml using Python. Built for performance and scalability.', 'Template', 'AI/ML', '// Sample Template content for Enterprise Python Admin #227
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','ai/ml','template','premium'], 887, 1584, '2025-11-26T20:17:19.089764'),
+('Modern General Dashboard #228', 'A high-quality ui/ux for content creation using General. Built for performance and scalability.', 'UI/UX', 'Content Creation', '// Sample UI/UX content for Modern General Dashboard #228
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','ui/ux'], 2553, 1744, '2026-07-19T20:17:19.089787'),
+('Personal Misc Portfolio #229', 'A high-quality template for content creation using Misc. Built for performance and scalability.', 'Template', 'Content Creation', '// Sample Template content for Personal Misc Portfolio #229

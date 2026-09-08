@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','prompt','premium'], 2524, 1807, '2026-06-19T20:17:19.093427'),
+('E-commerce with Misc #340', 'A high-quality project for data science using Misc. Built for performance and scalability.', 'Project', 'Data Science', '// Sample Project content for E-commerce with Misc #340
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','project'], 4495, 1617, '2025-08-16T20:17:19.093450'),
+('Animated General Button #341', 'A high-quality component for content creation using General. Built for performance and scalability.', 'Component', 'Content Creation', '// Sample Component content for Animated General Button #341
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','component','premium','open-source'], 1757, 1220, '2026-04-07T20:17:19.093473'),
+('Minimal General Design #342', 'A high-quality ui/ux for business using General. Built for performance and scalability.', 'UI/UX', 'Business', '// Sample UI/UX content for Minimal General Design #342
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','ui/ux','premium'], 699, 627, '2026-02-15T20:17:19.093495'),
+('Full Misc SaaS Template #343', 'A high-quality template for content creation using Misc. Built for performance and scalability.', 'Template', 'Content Creation', '// Sample Template content for Full Misc SaaS Template #343
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','template'], 3368, 1790, '2026-04-03T20:17:19.093526'),
+('Minimal Node.js Design #344', 'A high-quality ui/ux for website development using Node.js. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Minimal Node.js Design #344

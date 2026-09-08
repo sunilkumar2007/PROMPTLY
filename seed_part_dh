@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','function','premium'], 4505, 526, '2026-06-27T20:17:19.095708'),
+('Expert Marketing Assistant #425', 'A high-quality prompt for marketing using Misc. Built for performance and scalability.', 'Prompt', 'Marketing', '// Sample Prompt content for Expert Marketing Assistant #425
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','prompt'], 4215, 322, '2026-02-26T20:17:19.095731'),
+('Modern Tailwind CSS Dashboard #426', 'A high-quality ui/ux for website development using Tailwind CSS. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Modern Tailwind CSS Dashboard #426
+const data = {"tech": "Tailwind CSS", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['tailwind css','website','ui/ux'], 1990, 644, '2025-10-06T20:17:19.095754'),
+('Master General with this AI Prompt #427', 'A high-quality prompt for data science using General. Built for performance and scalability.', 'Prompt', 'Data Science', '// Sample Prompt content for Master General with this AI Prompt #427
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','prompt','premium'], 4945, 1626, '2026-01-20T20:17:19.095778'),
+('Modern Svelte Dashboard #428', 'A high-quality ui/ux for website development using Svelte. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Modern Svelte Dashboard #428
+const data = {"tech": "Svelte", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['svelte','website','ui/ux','premium'], 1466, 1741, '2025-09-15T20:17:19.095802'),
+('Clean General Hook #429', 'A high-quality code for education using General. Built for performance and scalability.', 'Code', 'Education', '// Sample Code content for Clean General Hook #429

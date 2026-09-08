@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','component','premium'], 1344, 287, '2026-06-30T20:17:19.095355'),
+('Responsive React Native Navbar #410', 'A high-quality component for mobile applications using React Native. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Responsive React Native Navbar #410
+const data = {"tech": "React Native", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['react native','mobile','component'], 4195, 1846, '2025-10-27T20:17:19.095379'),
+('Full Python SaaS Template #411', 'A high-quality template for automation using Python. Built for performance and scalability.', 'Template', 'Automation', '// Sample Template content for Full Python SaaS Template #411
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','template'], 2661, 758, '2025-12-15T20:17:19.095402'),
+('Full Svelte SaaS Template #412', 'A high-quality template for website development using Svelte. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Full Svelte SaaS Template #412
+const data = {"tech": "Svelte", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['svelte','website','template'], 2067, 1919, '2026-01-03T20:17:19.095423'),
+('Clean Misc Hook #413', 'A high-quality code for data science using Misc. Built for performance and scalability.', 'Code', 'Data Science', '// Sample Code content for Clean Misc Hook #413
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','code'], 4828, 1769, '2026-05-16T20:17:19.095445'),
+('Premium Python Kit #414', 'A high-quality ui/ux for ai/ml using Python. Built for performance and scalability.', 'UI/UX', 'AI/ML', '// Sample UI/UX content for Premium Python Kit #414

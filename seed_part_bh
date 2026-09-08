@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','code','premium','open-source'], 3216, 20, '2026-01-04T20:17:19.088060'),
+('Modern Flutter Dashboard #165', 'A high-quality ui/ux for mobile applications using Flutter. Built for performance and scalability.', 'UI/UX', 'Mobile Applications', '// Sample UI/UX content for Modern Flutter Dashboard #165
+const data = {"tech": "Flutter", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['flutter','mobile','ui/ux','open-source'], 947, 153, '2025-11-26T20:17:19.088082'),
+('Reusable General Logic #166', 'A high-quality code for content creation using General. Built for performance and scalability.', 'Code', 'Content Creation', '// Sample Code content for Reusable General Logic #166
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','code','premium'], 961, 1841, '2025-09-13T20:17:19.088103'),
+('Expert UI/UX Assistant #167', 'A high-quality prompt for ui/ux using Sketch. Built for performance and scalability.', 'Prompt', 'UI/UX', '// Sample Prompt content for Expert UI/UX Assistant #167
+const data = {"tech": "Sketch", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['sketch','ui/ux','prompt','open-source'], 3561, 752, '2025-08-24T20:17:19.088145'),
+('Modern Adobe XD Dashboard #168', 'A high-quality ui/ux for ui/ux using Adobe XD. Built for performance and scalability.', 'UI/UX', 'UI/UX', '// Sample UI/UX content for Modern Adobe XD Dashboard #168
+const data = {"tech": "Adobe XD", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['adobe xd','ui/ux','ui/ux','premium'], 2764, 681, '2026-05-31T20:17:19.088173'),
+('Clean Misc Hook #169', 'A high-quality code for marketing using Misc. Built for performance and scalability.', 'Code', 'Marketing', '// Sample Code content for Clean Misc Hook #169

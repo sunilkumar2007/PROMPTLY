@@ -1,0 +1,10 @@
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','template'], 2936, 1265, '2026-01-10T20:17:19.090166'),
+('Reusable Zapier Logic #245', 'A high-quality code for automation using Zapier. Built for performance and scalability.', 'Code', 'Automation', '// Sample Code content for Reusable Zapier Logic #245
+const data = {"tech": "Zapier", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['zapier','automation','code','open-source'], 59, 329, '2026-01-17T20:17:19.090189'),
+('Responsive Kotlin Navbar #246', 'A high-quality component for mobile applications using Kotlin. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Responsive Kotlin Navbar #246
+const data = {"tech": "Kotlin", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['kotlin','mobile','component','premium','open-source'], 774, 648, '2026-05-27T20:17:19.090212'),
+('Sanitize General Data #247', 'A high-quality function for marketing using General. Built for performance and scalability.', 'Function', 'Marketing', '// Sample Function content for Sanitize General Data #247
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','function','open-source'], 3094, 950, '2026-01-22T20:17:19.090236'),
+('Enterprise General Admin #248', 'A high-quality template for education using General. Built for performance and scalability.', 'Template', 'Education', '// Sample Template content for Enterprise General Admin #248
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','template','premium'], 747, 1924, '2026-04-24T20:17:19.090258'),
+('Animated Bash Button #249', 'A high-quality component for automation using Bash. Built for performance and scalability.', 'Component', 'Automation', '// Sample Component content for Animated Bash Button #249

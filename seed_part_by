@@ -1,0 +1,10 @@
+const data = {"tech": "Bash", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['bash','automation','component','premium'], 378, 1349, '2026-06-19T20:17:19.090281');
+INSERT INTO public.resources (title, description, type, category, content, creator_id, tags, likes_count, saves_count, created_at) VALUES ('Personal General Portfolio #250', 'A high-quality template for business using General. Built for performance and scalability.', 'Template', 'Business', '// Sample Template content for Personal General Portfolio #250
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','template','premium'], 53, 205, '2026-06-10T20:17:19.090391'),
+('Responsive Misc Navbar #251', 'A high-quality component for content creation using Misc. Built for performance and scalability.', 'Component', 'Content Creation', '// Sample Component content for Responsive Misc Navbar #251
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','component','open-source'], 1834, 1774, '2025-12-25T20:17:19.090417'),
+('Misc Auth Module #252', 'A high-quality module for productivity using Misc. Built for performance and scalability.', 'Module', 'Productivity', '// Sample Module content for Misc Auth Module #252
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','module','open-source'], 2585, 477, '2026-02-17T20:17:19.090441'),
+('AI Sketch Tool #253', 'A high-quality project for ui/ux using Sketch. Built for performance and scalability.', 'Project', 'UI/UX', '// Sample Project content for AI Sketch Tool #253
+const data = {"tech": "Sketch", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['sketch','ui/ux','project'], 3923, 606, '2025-10-07T20:17:19.090465'),
+('Format General Date #254', 'A high-quality function for data science using General. Built for performance and scalability.', 'Function', 'Data Science', '// Sample Function content for Format General Date #254

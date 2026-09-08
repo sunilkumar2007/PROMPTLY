@@ -1,0 +1,10 @@
+const data = {"tech": "Zapier", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['zapier','automation','code','premium'], 2047, 1881, '2025-11-30T20:17:19.085877'),
+('Reusable Dart Logic #90', 'A high-quality code for mobile applications using Dart. Built for performance and scalability.', 'Code', 'Mobile Applications', '// Sample Code content for Reusable Dart Logic #90
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','code','open-source'], 3609, 1701, '2025-12-08T20:17:19.085909'),
+('Enterprise Next.js Admin #91', 'A high-quality template for website development using Next.js. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Enterprise Next.js Admin #91
+const data = {"tech": "Next.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['next.js','website','template','premium'], 2757, 1610, '2026-04-02T20:17:19.085933'),
+('Full General SaaS Template #92', 'A high-quality template for business using General. Built for performance and scalability.', 'Template', 'Business', '// Sample Template content for Full General SaaS Template #92
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','template'], 4333, 105, '2026-05-27T20:17:19.085963'),
+('Personal General Portfolio #93', 'A high-quality template for productivity using General. Built for performance and scalability.', 'Template', 'Productivity', '// Sample Template content for Personal General Portfolio #93
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','template','premium','open-source'], 1531, 734, '2026-06-01T20:17:19.085989'),
+('Generate General Boilerplate #94', 'A high-quality prompt for education using General. Built for performance and scalability.', 'Prompt', 'Education', '// Sample Prompt content for Generate General Boilerplate #94

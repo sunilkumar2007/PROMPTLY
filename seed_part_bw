@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','code'], 245, 109, '2026-05-09T20:17:19.090039'),
+('Minimal Swift Design #240', 'A high-quality ui/ux for mobile applications using Swift. Built for performance and scalability.', 'UI/UX', 'Mobile Applications', '// Sample UI/UX content for Minimal Swift Design #240
+const data = {"tech": "Swift", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['swift','mobile','ui/ux','premium','open-source'], 380, 179, '2026-06-21T20:17:19.090062'),
+('General Auth Module #241', 'A high-quality module for content creation using General. Built for performance and scalability.', 'Module', 'Content Creation', '// Sample Module content for General Auth Module #241
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','module'], 3905, 1754, '2025-10-19T20:17:19.090084'),
+('Reusable Zapier Logic #242', 'A high-quality code for automation using Zapier. Built for performance and scalability.', 'Code', 'Automation', '// Sample Code content for Reusable Zapier Logic #242
+const data = {"tech": "Zapier", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['zapier','automation','code','premium'], 1988, 85, '2025-10-09T20:17:19.090107'),
+('Sanitize General Data #243', 'A high-quality function for marketing using General. Built for performance and scalability.', 'Function', 'Marketing', '// Sample Function content for Sanitize General Data #243
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','function','premium'], 3948, 1436, '2025-11-18T20:17:19.090141'),
+('Full Figma SaaS Template #244', 'A high-quality template for ui/ux using Figma. Built for performance and scalability.', 'Template', 'UI/UX', '// Sample Template content for Full Figma SaaS Template #244

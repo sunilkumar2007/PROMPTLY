@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','project'], 1611, 1, '2026-01-20T20:17:19.080377'),
+('General Payment Integration #40', 'A high-quality module for content creation using General. Built for performance and scalability.', 'Module', 'Content Creation', '// Sample Module content for General Payment Integration #40
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','module','open-source'], 2279, 1311, '2026-05-08T20:17:19.080399'),
+('AI Misc Tool #41', 'A high-quality project for content creation using Misc. Built for performance and scalability.', 'Project', 'Content Creation', '// Sample Project content for AI Misc Tool #41
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','project'], 76, 1974, '2026-07-25T20:17:19.084225'),
+('Responsive Svelte Navbar #42', 'A high-quality component for website development using Svelte. Built for performance and scalability.', 'Component', 'Website Development', '// Sample Component content for Responsive Svelte Navbar #42
+const data = {"tech": "Svelte", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['svelte','website','component','premium','open-source'], 752, 603, '2026-05-02T20:17:19.084260'),
+('Clean Adobe XD Hook #43', 'A high-quality code for ui/ux using Adobe XD. Built for performance and scalability.', 'Code', 'UI/UX', '// Sample Code content for Clean Adobe XD Hook #43
+const data = {"tech": "Adobe XD", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['adobe xd','ui/ux','code'], 4420, 190, '2026-02-28T20:17:19.084281'),
+('Modern General Dashboard #44', 'A high-quality ui/ux for productivity using General. Built for performance and scalability.', 'UI/UX', 'Productivity', '// Sample UI/UX content for Modern General Dashboard #44

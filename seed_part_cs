@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','project','premium'], 2662, 1887, '2026-07-30T20:17:19.093673');
+INSERT INTO public.resources (title, description, type, category, content, creator_id, tags, likes_count, saves_count, created_at) VALUES ('General Payment Integration #350', 'A high-quality module for education using General. Built for performance and scalability.', 'Module', 'Education', '// Sample Module content for General Payment Integration #350
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','module'], 4491, 589, '2025-11-27T20:17:19.093843'),
+('Expert Automation Assistant #351', 'A high-quality prompt for automation using Zapier. Built for performance and scalability.', 'Prompt', 'Automation', '// Sample Prompt content for Expert Automation Assistant #351
+const data = {"tech": "Zapier", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['zapier','automation','prompt'], 229, 1121, '2026-02-25T20:17:19.093870'),
+('Full Misc SaaS Template #352', 'A high-quality template for productivity using Misc. Built for performance and scalability.', 'Template', 'Productivity', '// Sample Template content for Full Misc SaaS Template #352
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','template'], 447, 1497, '2026-02-16T20:17:19.093894'),
+('Generate Misc Boilerplate #353', 'A high-quality prompt for education using Misc. Built for performance and scalability.', 'Prompt', 'Education', '// Sample Prompt content for Generate Misc Boilerplate #353
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','prompt'], 2147, 683, '2025-10-15T20:17:19.093915'),
+('Reusable Misc Logic #354', 'A high-quality code for business using Misc. Built for performance and scalability.', 'Code', 'Business', '// Sample Code content for Reusable Misc Logic #354

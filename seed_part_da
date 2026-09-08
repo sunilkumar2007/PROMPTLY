@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','code'], 2677, 783, '2025-10-28T20:17:19.094776'),
+('Premium Bash Kit #390', 'A high-quality ui/ux for automation using Bash. Built for performance and scalability.', 'UI/UX', 'Automation', '// Sample UI/UX content for Premium Bash Kit #390
+const data = {"tech": "Bash", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['bash','automation','ui/ux'], 3000, 1195, '2025-08-29T20:17:19.094799'),
+('Personal General Portfolio #391', 'A high-quality template for productivity using General. Built for performance and scalability.', 'Template', 'Productivity', '// Sample Template content for Personal General Portfolio #391
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','template','open-source'], 2772, 482, '2026-01-19T20:17:19.094821'),
+('Validate Swift Input #392', 'A high-quality function for mobile applications using Swift. Built for performance and scalability.', 'Function', 'Mobile Applications', '// Sample Function content for Validate Swift Input #392
+const data = {"tech": "Swift", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['swift','mobile','function','premium','open-source'], 4853, 18, '2026-02-26T20:17:19.094845'),
+('Master Node.js with this AI Prompt #393', 'A high-quality prompt for website development using Node.js. Built for performance and scalability.', 'Prompt', 'Website Development', '// Sample Prompt content for Master Node.js with this AI Prompt #393
+const data = {"tech": "Node.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['node.js','website','prompt','premium','open-source'], 2559, 1556, '2025-10-17T20:17:19.094869'),
+('Interactive Misc Chart #394', 'A high-quality component for productivity using Misc. Built for performance and scalability.', 'Component', 'Productivity', '// Sample Component content for Interactive Misc Chart #394

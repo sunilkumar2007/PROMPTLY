@@ -1,0 +1,10 @@
+const data = {"tech": "TypeScript", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['typescript','website','prompt','premium'], 2777, 1067, '2026-03-13T20:17:19.085511'),
+('Premium LangChain Kit #75', 'A high-quality ui/ux for ai/ml using LangChain. Built for performance and scalability.', 'UI/UX', 'AI/ML', '// Sample UI/UX content for Premium LangChain Kit #75
+const data = {"tech": "LangChain", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['langchain','ai/ml','ui/ux','premium'], 3299, 585, '2025-08-12T20:17:19.085539'),
+('Validate Python Input #76', 'A high-quality function for automation using Python. Built for performance and scalability.', 'Function', 'Automation', '// Sample Function content for Validate Python Input #76
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','function','premium'], 3176, 1183, '2026-05-08T20:17:19.085564'),
+('E-commerce with Misc #77', 'A high-quality project for education using Misc. Built for performance and scalability.', 'Project', 'Education', '// Sample Project content for E-commerce with Misc #77
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','project','open-source'], 3001, 38, '2026-07-12T20:17:19.085589'),
+('Clean Misc Hook #78', 'A high-quality code for marketing using Misc. Built for performance and scalability.', 'Code', 'Marketing', '// Sample Code content for Clean Misc Hook #78
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','code','premium'], 1690, 958, '2026-04-13T20:17:19.085613'),
+('Personal PyTorch Portfolio #79', 'A high-quality template for ai/ml using PyTorch. Built for performance and scalability.', 'Template', 'AI/ML', '// Sample Template content for Personal PyTorch Portfolio #79

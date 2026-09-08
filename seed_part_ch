@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','ui/ux','premium','open-source'], 723, 636, '2025-12-26T20:17:19.091539'),
+('Enterprise Svelte Admin #295', 'A high-quality template for website development using Svelte. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Enterprise Svelte Admin #295
+const data = {"tech": "Svelte", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['svelte','website','template'], 2896, 21, '2026-01-05T20:17:19.091563'),
+('Interactive Misc Chart #296', 'A high-quality component for business using Misc. Built for performance and scalability.', 'Component', 'Business', '// Sample Component content for Interactive Misc Chart #296
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','component'], 4279, 367, '2026-03-17T20:17:19.091584'),
+('AI Hugging Face Tool #297', 'A high-quality project for ai/ml using Hugging Face. Built for performance and scalability.', 'Project', 'AI/ML', '// Sample Project content for AI Hugging Face Tool #297
+const data = {"tech": "Hugging Face", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['hugging face','ai/ml','project'], 686, 1658, '2026-05-29T20:17:19.091608'),
+('Minimal Tailwind CSS Design #298', 'A high-quality ui/ux for website development using Tailwind CSS. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Minimal Tailwind CSS Design #298
+const data = {"tech": "Tailwind CSS", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['tailwind css','website','ui/ux'], 3556, 1306, '2025-10-23T20:17:19.091632'),
+('Sanitize Vue Data #299', 'A high-quality function for website development using Vue. Built for performance and scalability.', 'Function', 'Website Development', '// Sample Function content for Sanitize Vue Data #299

@@ -1,0 +1,10 @@
+const data = {"tech": "OpenAI API", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['openai api','ai/ml','component'], 4870, 1345, '2025-10-31T20:17:19.089580'),
+('Reusable Python Logic #220', 'A high-quality code for automation using Python. Built for performance and scalability.', 'Code', 'Automation', '// Sample Code content for Reusable Python Logic #220
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','code'], 3313, 578, '2025-08-08T20:17:19.089604'),
+('Reusable Claude Logic #221', 'A high-quality code for ai/ml using Claude. Built for performance and scalability.', 'Code', 'AI/ML', '// Sample Code content for Reusable Claude Logic #221
+const data = {"tech": "Claude", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['claude','ai/ml','code','premium'], 3554, 357, '2026-08-05T20:17:19.089626'),
+('Personal Python Portfolio #222', 'A high-quality template for automation using Python. Built for performance and scalability.', 'Template', 'Automation', '// Sample Template content for Personal Python Portfolio #222
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','template','premium'], 584, 537, '2026-04-18T20:17:19.089650'),
+('Master Misc with this AI Prompt #223', 'A high-quality prompt for productivity using Misc. Built for performance and scalability.', 'Prompt', 'Productivity', '// Sample Prompt content for Master Misc with this AI Prompt #223
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','prompt','premium'], 4264, 370, '2026-06-21T20:17:19.089674'),
+('Minimal General Design #224', 'A high-quality ui/ux for marketing using General. Built for performance and scalability.', 'UI/UX', 'Marketing', '// Sample UI/UX content for Minimal General Design #224

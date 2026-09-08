@@ -1,0 +1,50 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','code'], 3642, 84, '2026-02-15T20:17:19.088418'),
+('Realtime Misc Chat #180', 'A high-quality project for business using Misc. Built for performance and scalability.', 'Project', 'Business', '// Sample Project content for Realtime Misc Chat #180
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','project'], 2661, 780, '2026-01-19T20:17:19.088439'),
+('Animated Misc Button #181', 'A high-quality component for education using Misc. Built for performance and scalability.', 'Component', 'Education', '// Sample Component content for Animated Misc Button #181
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','component','premium'], 4812, 581, '2026-08-05T20:17:19.088572'),
+('AI Misc Tool #182', 'A high-quality project for productivity using Misc. Built for performance and scalability.', 'Project', 'Productivity', '// Sample Project content for AI Misc Tool #182
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','project','premium','open-source'], 1559, 780, '2026-06-24T20:17:19.088596'),
+('Interactive General Chart #183', 'A high-quality component for content creation using General. Built for performance and scalability.', 'Component', 'Content Creation', '// Sample Component content for Interactive General Chart #183
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','component'], 4668, 454, '2026-05-21T20:17:19.088620'),
+('Premium Svelte Kit #184', 'A high-quality ui/ux for website development using Svelte. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Premium Svelte Kit #184
+const data = {"tech": "Svelte", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['svelte','website','ui/ux'], 442, 454, '2026-03-02T20:17:19.088643'),
+('Vue Auth Module #185', 'A high-quality module for website development using Vue. Built for performance and scalability.', 'Module', 'Website Development', '// Sample Module content for Vue Auth Module #185
+const data = {"tech": "Vue", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['vue','website','module','premium'], 1575, 550, '2026-02-21T20:17:19.088667'),
+('Full PyTorch SaaS Template #186', 'A high-quality template for ai/ml using PyTorch. Built for performance and scalability.', 'Template', 'AI/ML', '// Sample Template content for Full PyTorch SaaS Template #186
+const data = {"tech": "PyTorch", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['pytorch','ai/ml','template','premium','open-source'], 2476, 1858, '2025-11-27T20:17:19.088690'),
+('Misc Payment Integration #187', 'A high-quality module for business using Misc. Built for performance and scalability.', 'Module', 'Business', '// Sample Module content for Misc Payment Integration #187
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','module'], 2175, 1393, '2026-02-26T20:17:19.088714'),
+('Modern Hugging Face Dashboard #188', 'A high-quality ui/ux for ai/ml using Hugging Face. Built for performance and scalability.', 'UI/UX', 'AI/ML', '// Sample UI/UX content for Modern Hugging Face Dashboard #188
+const data = {"tech": "Hugging Face", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['hugging face','ai/ml','ui/ux'], 2631, 474, '2026-06-08T20:17:19.088736'),
+('Reusable Misc Logic #189', 'A high-quality code for marketing using Misc. Built for performance and scalability.', 'Code', 'Marketing', '// Sample Code content for Reusable Misc Logic #189
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','code'], 876, 1219, '2025-11-19T20:17:19.088759'),
+('Validate Dart Input #190', 'A high-quality function for mobile applications using Dart. Built for performance and scalability.', 'Function', 'Mobile Applications', '// Sample Function content for Validate Dart Input #190
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','function','premium'], 2504, 1382, '2026-01-10T20:17:19.088781'),
+('Format React Date #191', 'A high-quality function for website development using React. Built for performance and scalability.', 'Function', 'Website Development', '// Sample Function content for Format React Date #191
+const data = {"tech": "React", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['react','website','function','premium'], 4492, 973, '2026-03-29T20:17:19.088805'),
+('Full General SaaS Template #192', 'A high-quality template for productivity using General. Built for performance and scalability.', 'Template', 'Productivity', '// Sample Template content for Full General SaaS Template #192
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','template'], 1432, 954, '2026-06-20T20:17:19.088827'),
+('Efficient Vue Utility #193', 'A high-quality code for website development using Vue. Built for performance and scalability.', 'Code', 'Website Development', '// Sample Code content for Efficient Vue Utility #193
+const data = {"tech": "Vue", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['vue','website','code'], 3124, 493, '2026-03-18T20:17:19.088851'),
+('Validate Kotlin Input #194', 'A high-quality function for mobile applications using Kotlin. Built for performance and scalability.', 'Function', 'Mobile Applications', '// Sample Function content for Validate Kotlin Input #194
+const data = {"tech": "Kotlin", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['kotlin','mobile','function'], 2639, 1238, '2026-07-15T20:17:19.088874'),
+('Animated Misc Button #195', 'A high-quality component for marketing using Misc. Built for performance and scalability.', 'Component', 'Marketing', '// Sample Component content for Animated Misc Button #195
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','component','premium','open-source'], 2254, 861, '2025-11-17T20:17:19.088898'),
+('Interactive Python Chart #196', 'A high-quality component for ai/ml using Python. Built for performance and scalability.', 'Component', 'AI/ML', '// Sample Component content for Interactive Python Chart #196
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','ai/ml','component'], 4918, 31, '2026-01-16T20:17:19.088924'),
+('Minimal TypeScript Design #197', 'A high-quality ui/ux for website development using TypeScript. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Minimal TypeScript Design #197
+const data = {"tech": "TypeScript", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['typescript','website','ui/ux'], 3539, 322, '2025-10-15T20:17:19.088947'),
+('Validate Misc Input #198', 'A high-quality function for productivity using Misc. Built for performance and scalability.', 'Function', 'Productivity', '// Sample Function content for Validate Misc Input #198
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','function'], 3501, 105, '2026-01-21T20:17:19.088970'),
+('General Auth Module #199', 'A high-quality module for productivity using General. Built for performance and scalability.', 'Module', 'Productivity', '// Sample Module content for General Auth Module #199
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','module'], 2732, 41, '2025-10-08T20:17:19.088991');
+INSERT INTO public.resources (title, description, type, category, content, creator_id, tags, likes_count, saves_count, created_at) VALUES ('General Auth Module #200', 'A high-quality module for content creation using General. Built for performance and scalability.', 'Module', 'Content Creation', '// Sample Module content for General Auth Module #200
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','module'], 2238, 597, '2026-02-10T20:17:19.089113'),
+('Minimal Hugging Face Design #201', 'A high-quality ui/ux for ai/ml using Hugging Face. Built for performance and scalability.', 'UI/UX', 'AI/ML', '// Sample UI/UX content for Minimal Hugging Face Design #201
+const data = {"tech": "Hugging Face", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['hugging face','ai/ml','ui/ux','premium','open-source'], 4080, 1191, '2026-03-06T20:17:19.089156'),
+('E-commerce with React Native #202', 'A high-quality project for mobile applications using React Native. Built for performance and scalability.', 'Project', 'Mobile Applications', '// Sample Project content for E-commerce with React Native #202
+const data = {"tech": "React Native", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['react native','mobile','project','premium','open-source'], 123, 1872, '2026-05-27T20:17:19.089181'),
+('E-commerce with General #203', 'A high-quality project for data science using General. Built for performance and scalability.', 'Project', 'Data Science', '// Sample Project content for E-commerce with General #203
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','project','premium','open-source'], 1763, 1798, '2025-08-12T20:17:19.089205'),
+('General Payment Integration #204', 'A high-quality module for business using General. Built for performance and scalability.', 'Module', 'Business', '// Sample Module content for General Payment Integration #204

@@ -1,0 +1,10 @@
+const data = {"tech": "TypeScript", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['typescript','website','component'], 3553, 1237, '2025-10-30T20:17:19.090617'),
+('Responsive General Navbar #260', 'A high-quality component for productivity using General. Built for performance and scalability.', 'Component', 'Productivity', '// Sample Component content for Responsive General Navbar #260
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','component','premium','open-source'], 3085, 1957, '2025-11-19T20:17:19.090641'),
+('E-commerce with Swift #261', 'A high-quality project for mobile applications using Swift. Built for performance and scalability.', 'Project', 'Mobile Applications', '// Sample Project content for E-commerce with Swift #261
+const data = {"tech": "Swift", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['swift','mobile','project','open-source'], 1202, 1362, '2025-12-27T20:17:19.090665'),
+('Misc Payment Integration #262', 'A high-quality module for content creation using Misc. Built for performance and scalability.', 'Module', 'Content Creation', '// Sample Module content for Misc Payment Integration #262
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','module'], 2658, 128, '2025-12-26T20:17:19.090687'),
+('Premium General Kit #263', 'A high-quality ui/ux for marketing using General. Built for performance and scalability.', 'UI/UX', 'Marketing', '// Sample UI/UX content for Premium General Kit #263
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','ui/ux'], 282, 763, '2026-03-24T20:17:19.090710'),
+('E-commerce with General #264', 'A high-quality project for productivity using General. Built for performance and scalability.', 'Project', 'Productivity', '// Sample Project content for E-commerce with General #264

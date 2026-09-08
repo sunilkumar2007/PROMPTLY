@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','project','premium'], 2023, 888, '2025-09-22T20:17:19.096528'),
+('Generate Flutter Boilerplate #455', 'A high-quality prompt for mobile applications using Flutter. Built for performance and scalability.', 'Prompt', 'Mobile Applications', '// Sample Prompt content for Generate Flutter Boilerplate #455
+const data = {"tech": "Flutter", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['flutter','mobile','prompt','premium','open-source'], 2291, 1428, '2026-04-26T20:17:19.096552'),
+('Master Misc with this AI Prompt #456', 'A high-quality prompt for content creation using Misc. Built for performance and scalability.', 'Prompt', 'Content Creation', '// Sample Prompt content for Master Misc with this AI Prompt #456
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','prompt'], 2487, 1169, '2025-09-17T20:17:19.096574'),
+('Interactive Misc Chart #457', 'A high-quality component for education using Misc. Built for performance and scalability.', 'Component', 'Education', '// Sample Component content for Interactive Misc Chart #457
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','component','premium'], 337, 808, '2026-02-14T20:17:19.096596'),
+('Modern Misc Dashboard #458', 'A high-quality ui/ux for productivity using Misc. Built for performance and scalability.', 'UI/UX', 'Productivity', '// Sample UI/UX content for Modern Misc Dashboard #458
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','ui/ux'], 1220, 105, '2025-12-17T20:17:19.096619'),
+('Full Svelte SaaS Template #459', 'A high-quality template for website development using Svelte. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Full Svelte SaaS Template #459

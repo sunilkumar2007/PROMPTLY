@@ -1,0 +1,10 @@
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','template','premium','open-source'], 4964, 718, '2026-06-30T20:17:19.094307'),
+('Modern TypeScript Dashboard #370', 'A high-quality ui/ux for website development using TypeScript. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Modern TypeScript Dashboard #370
+const data = {"tech": "TypeScript", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['typescript','website','ui/ux','premium'], 76, 1291, '2026-02-10T20:17:19.094331'),
+('Minimal General Design #371', 'A high-quality ui/ux for productivity using General. Built for performance and scalability.', 'UI/UX', 'Productivity', '// Sample UI/UX content for Minimal General Design #371
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','ui/ux','premium'], 1610, 959, '2025-08-20T20:17:19.094354'),
+('Realtime Misc Chat #372', 'A high-quality project for business using Misc. Built for performance and scalability.', 'Project', 'Business', '// Sample Project content for Realtime Misc Chat #372
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','project','premium'], 1375, 881, '2025-11-29T20:17:19.094377'),
+('AI Figma Tool #373', 'A high-quality project for ui/ux using Figma. Built for performance and scalability.', 'Project', 'UI/UX', '// Sample Project content for AI Figma Tool #373
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','project','premium','open-source'], 2195, 1571, '2025-08-19T20:17:19.094401'),
+('Validate Misc Input #374', 'A high-quality function for education using Misc. Built for performance and scalability.', 'Function', 'Education', '// Sample Function content for Validate Misc Input #374

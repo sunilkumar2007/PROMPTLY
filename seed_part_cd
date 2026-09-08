@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','function'], 3100, 820, '2026-05-11T20:17:19.090965'),
+('Master Node.js with this AI Prompt #275', 'A high-quality prompt for website development using Node.js. Built for performance and scalability.', 'Prompt', 'Website Development', '// Sample Prompt content for Master Node.js with this AI Prompt #275
+const data = {"tech": "Node.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['node.js','website','prompt','premium'], 4114, 530, '2026-08-07T20:17:19.090987'),
+('Expert Business Assistant #276', 'A high-quality prompt for business using Misc. Built for performance and scalability.', 'Prompt', 'Business', '// Sample Prompt content for Expert Business Assistant #276
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','prompt'], 1363, 1624, '2025-12-01T20:17:19.091010'),
+('Premium Bash Kit #277', 'A high-quality ui/ux for automation using Bash. Built for performance and scalability.', 'UI/UX', 'Automation', '// Sample UI/UX content for Premium Bash Kit #277
+const data = {"tech": "Bash", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['bash','automation','ui/ux','premium'], 4345, 998, '2026-05-30T20:17:19.091033'),
+('Enterprise Kotlin Admin #278', 'A high-quality template for mobile applications using Kotlin. Built for performance and scalability.', 'Template', 'Mobile Applications', '// Sample Template content for Enterprise Kotlin Admin #278
+const data = {"tech": "Kotlin", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['kotlin','mobile','template'], 327, 420, '2026-07-16T20:17:19.091055'),
+('General Payment Integration #279', 'A high-quality module for education using General. Built for performance and scalability.', 'Module', 'Education', '// Sample Module content for General Payment Integration #279

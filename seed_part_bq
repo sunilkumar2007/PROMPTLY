@@ -1,0 +1,10 @@
+const data = {"tech": "Flutter", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['flutter','mobile','template','premium','open-source'], 437, 1989, '2026-06-19T20:17:19.089342'),
+('Minimal Figma Design #210', 'A high-quality ui/ux for ui/ux using Figma. Built for performance and scalability.', 'UI/UX', 'UI/UX', '// Sample UI/UX content for Minimal Figma Design #210
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','ui/ux','premium'], 1931, 440, '2026-05-27T20:17:19.089365'),
+('Responsive Misc Navbar #211', 'A high-quality component for education using Misc. Built for performance and scalability.', 'Component', 'Education', '// Sample Component content for Responsive Misc Navbar #211
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','component','premium'], 2889, 1196, '2026-03-04T20:17:19.089387'),
+('Master Misc with this AI Prompt #212', 'A high-quality prompt for data science using Misc. Built for performance and scalability.', 'Prompt', 'Data Science', '// Sample Prompt content for Master Misc with this AI Prompt #212
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','prompt'], 1628, 1682, '2026-02-07T20:17:19.089410'),
+('Validate General Input #213', 'A high-quality function for business using General. Built for performance and scalability.', 'Function', 'Business', '// Sample Function content for Validate General Input #213
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','function'], 2875, 568, '2026-05-22T20:17:19.089432'),
+('Generate Misc Boilerplate #214', 'A high-quality prompt for data science using Misc. Built for performance and scalability.', 'Prompt', 'Data Science', '// Sample Prompt content for Generate Misc Boilerplate #214

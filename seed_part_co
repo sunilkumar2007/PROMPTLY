@@ -1,0 +1,10 @@
+const data = {"tech": "Vue", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['vue','website','module'], 2986, 1618, '2026-06-07T20:17:19.093193'),
+('Modern General Dashboard #330', 'A high-quality ui/ux for productivity using General. Built for performance and scalability.', 'UI/UX', 'Productivity', '// Sample UI/UX content for Modern General Dashboard #330
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','ui/ux'], 1083, 899, '2025-09-05T20:17:19.093219'),
+('Clean Swift Hook #331', 'A high-quality code for mobile applications using Swift. Built for performance and scalability.', 'Code', 'Mobile Applications', '// Sample Code content for Clean Swift Hook #331
+const data = {"tech": "Swift", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['swift','mobile','code','open-source'], 1192, 430, '2026-01-16T20:17:19.093241'),
+('E-commerce with PyTorch #332', 'A high-quality project for ai/ml using PyTorch. Built for performance and scalability.', 'Project', 'AI/ML', '// Sample Project content for E-commerce with PyTorch #332
+const data = {"tech": "PyTorch", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['pytorch','ai/ml','project'], 757, 1056, '2025-12-26T20:17:19.093264'),
+('Animated General Button #333', 'A high-quality component for content creation using General. Built for performance and scalability.', 'Component', 'Content Creation', '// Sample Component content for Animated General Button #333
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','component','open-source'], 2560, 722, '2026-03-23T20:17:19.093288'),
+('Sanitize Figma Data #334', 'A high-quality function for ui/ux using Figma. Built for performance and scalability.', 'Function', 'UI/UX', '// Sample Function content for Sanitize Figma Data #334

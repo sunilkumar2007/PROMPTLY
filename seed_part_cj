@@ -1,0 +1,10 @@
+const data = {"tech": "Hugging Face", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['hugging face','ai/ml','code','premium'], 2762, 904, '2026-04-23T20:17:19.092416'),
+('Enterprise General Admin #305', 'A high-quality template for marketing using General. Built for performance and scalability.', 'Template', 'Marketing', '// Sample Template content for Enterprise General Admin #305
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','template'], 1521, 1969, '2026-05-29T20:17:19.092440'),
+('Personal Misc Portfolio #306', 'A high-quality template for productivity using Misc. Built for performance and scalability.', 'Template', 'Productivity', '// Sample Template content for Personal Misc Portfolio #306
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','template'], 2289, 1857, '2026-05-06T20:17:19.092465'),
+('Interactive Angular Chart #307', 'A high-quality component for website development using Angular. Built for performance and scalability.', 'Component', 'Website Development', '// Sample Component content for Interactive Angular Chart #307
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','component'], 13, 769, '2026-04-24T20:17:19.092489'),
+('Efficient Angular Utility #308', 'A high-quality code for website development using Angular. Built for performance and scalability.', 'Code', 'Website Development', '// Sample Code content for Efficient Angular Utility #308
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','code','premium'], 142, 1407, '2026-01-18T20:17:19.092522'),
+('Expert Business Assistant #309', 'A high-quality prompt for business using Misc. Built for performance and scalability.', 'Prompt', 'Business', '// Sample Prompt content for Expert Business Assistant #309

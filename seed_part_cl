@@ -1,0 +1,10 @@
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','template'], 469, 1747, '2025-10-17T20:17:19.092661'),
+('Premium Misc Kit #315', 'A high-quality ui/ux for data science using Misc. Built for performance and scalability.', 'UI/UX', 'Data Science', '// Sample UI/UX content for Premium Misc Kit #315
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','ui/ux','premium','open-source'], 492, 550, '2026-02-06T20:17:19.092682'),
+('Realtime Adobe XD Chat #316', 'A high-quality project for ui/ux using Adobe XD. Built for performance and scalability.', 'Project', 'UI/UX', '// Sample Project content for Realtime Adobe XD Chat #316
+const data = {"tech": "Adobe XD", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['adobe xd','ui/ux','project'], 112, 1907, '2025-08-17T20:17:19.092705'),
+('Reusable General Logic #317', 'A high-quality code for business using General. Built for performance and scalability.', 'Code', 'Business', '// Sample Code content for Reusable General Logic #317
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','code','open-source'], 1457, 956, '2025-12-08T20:17:19.092727'),
+('Minimal GitHub Actions Design #318', 'A high-quality ui/ux for automation using GitHub Actions. Built for performance and scalability.', 'UI/UX', 'Automation', '// Sample UI/UX content for Minimal GitHub Actions Design #318
+const data = {"tech": "GitHub Actions", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['github actions','automation','ui/ux'], 4433, 1467, '2025-11-16T20:17:19.092873'),
+('Reusable Adobe XD Logic #319', 'A high-quality code for ui/ux using Adobe XD. Built for performance and scalability.', 'Code', 'UI/UX', '// Sample Code content for Reusable Adobe XD Logic #319

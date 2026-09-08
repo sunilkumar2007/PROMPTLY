@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','prompt'], 3262, 509, '2026-06-28T20:17:19.089456'),
+('Enterprise GitHub Actions Admin #215', 'A high-quality template for automation using GitHub Actions. Built for performance and scalability.', 'Template', 'Automation', '// Sample Template content for Enterprise GitHub Actions Admin #215
+const data = {"tech": "GitHub Actions", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['github actions','automation','template','premium','open-source'], 4851, 1698, '2026-02-28T20:17:19.089478'),
+('Swift Auth Module #216', 'A high-quality module for mobile applications using Swift. Built for performance and scalability.', 'Module', 'Mobile Applications', '// Sample Module content for Swift Auth Module #216
+const data = {"tech": "Swift", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['swift','mobile','module','premium','open-source'], 1946, 1088, '2025-12-15T20:17:19.089501'),
+('General Payment Integration #217', 'A high-quality module for education using General. Built for performance and scalability.', 'Module', 'Education', '// Sample Module content for General Payment Integration #217
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','module','open-source'], 4768, 1934, '2025-12-27T20:17:19.089534'),
+('Responsive Misc Navbar #218', 'A high-quality component for business using Misc. Built for performance and scalability.', 'Component', 'Business', '// Sample Component content for Responsive Misc Navbar #218
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','component'], 3197, 1623, '2026-05-30T20:17:19.089557'),
+('Responsive OpenAI API Navbar #219', 'A high-quality component for ai/ml using OpenAI API. Built for performance and scalability.', 'Component', 'AI/ML', '// Sample Component content for Responsive OpenAI API Navbar #219

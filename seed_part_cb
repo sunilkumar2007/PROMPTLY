@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','project'], 4456, 1946, '2025-11-21T20:17:19.090733'),
+('Expert UI/UX Assistant #265', 'A high-quality prompt for ui/ux using Adobe XD. Built for performance and scalability.', 'Prompt', 'UI/UX', '// Sample Prompt content for Expert UI/UX Assistant #265
+const data = {"tech": "Adobe XD", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['adobe xd','ui/ux','prompt','premium'], 4189, 1308, '2026-08-02T20:17:19.090757'),
+('Efficient TypeScript Utility #266', 'A high-quality code for website development using TypeScript. Built for performance and scalability.', 'Code', 'Website Development', '// Sample Code content for Efficient TypeScript Utility #266
+const data = {"tech": "TypeScript", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['typescript','website','code','premium'], 1493, 1152, '2025-08-08T20:17:19.090780'),
+('Master General with this AI Prompt #267', 'A high-quality prompt for data science using General. Built for performance and scalability.', 'Prompt', 'Data Science', '// Sample Prompt content for Master General with this AI Prompt #267
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','prompt'], 3747, 979, '2026-07-17T20:17:19.090803'),
+('Minimal General Design #268', 'A high-quality ui/ux for data science using General. Built for performance and scalability.', 'UI/UX', 'Data Science', '// Sample UI/UX content for Minimal General Design #268
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','ui/ux','premium'], 2731, 339, '2026-04-24T20:17:19.090827'),
+('Enterprise React Native Admin #269', 'A high-quality template for mobile applications using React Native. Built for performance and scalability.', 'Template', 'Mobile Applications', '// Sample Template content for Enterprise React Native Admin #269

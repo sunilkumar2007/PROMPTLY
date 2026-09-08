@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','module','premium'], 3536, 409, '2026-02-01T20:17:19.089228'),
+('Reusable Bash Logic #205', 'A high-quality code for automation using Bash. Built for performance and scalability.', 'Code', 'Automation', '// Sample Code content for Reusable Bash Logic #205
+const data = {"tech": "Bash", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['bash','automation','code','open-source'], 3345, 1669, '2026-01-08T20:17:19.089251'),
+('Master General with this AI Prompt #206', 'A high-quality prompt for marketing using General. Built for performance and scalability.', 'Prompt', 'Marketing', '// Sample Prompt content for Master General with this AI Prompt #206
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','prompt','premium'], 1331, 1819, '2026-07-08T20:17:19.089273'),
+('Sanitize Misc Data #207', 'A high-quality function for productivity using Misc. Built for performance and scalability.', 'Function', 'Productivity', '// Sample Function content for Sanitize Misc Data #207
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','function','premium','open-source'], 4856, 346, '2026-05-19T20:17:19.089295'),
+('Premium General Kit #208', 'A high-quality ui/ux for education using General. Built for performance and scalability.', 'UI/UX', 'Education', '// Sample UI/UX content for Premium General Kit #208
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','ui/ux','premium'], 2635, 174, '2026-05-11T20:17:19.089318'),
+('Full Flutter SaaS Template #209', 'A high-quality template for mobile applications using Flutter. Built for performance and scalability.', 'Template', 'Mobile Applications', '// Sample Template content for Full Flutter SaaS Template #209

@@ -1,0 +1,10 @@
+const data = {"tech": "React Native", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['react native','mobile','template'], 1331, 1708, '2026-02-04T20:17:19.090850'),
+('Modern Misc Dashboard #270', 'A high-quality ui/ux for productivity using Misc. Built for performance and scalability.', 'UI/UX', 'Productivity', '// Sample UI/UX content for Modern Misc Dashboard #270
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','ui/ux','premium'], 81, 375, '2025-12-22T20:17:19.090872'),
+('Next.js Auth Module #271', 'A high-quality module for website development using Next.js. Built for performance and scalability.', 'Module', 'Website Development', '// Sample Module content for Next.js Auth Module #271
+const data = {"tech": "Next.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['next.js','website','module','premium','open-source'], 3875, 1078, '2026-05-14T20:17:19.090895'),
+('Enterprise Figma Admin #272', 'A high-quality template for ui/ux using Figma. Built for performance and scalability.', 'Template', 'UI/UX', '// Sample Template content for Enterprise Figma Admin #272
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','template','open-source'], 424, 104, '2025-09-27T20:17:19.090919'),
+('Expert AI/ML Assistant #273', 'A high-quality prompt for ai/ml using PyTorch. Built for performance and scalability.', 'Prompt', 'AI/ML', '// Sample Prompt content for Expert AI/ML Assistant #273
+const data = {"tech": "PyTorch", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['pytorch','ai/ml','prompt','premium','open-source'], 1493, 1267, '2025-12-28T20:17:19.090942'),
+('Sanitize Misc Data #274', 'A high-quality function for education using Misc. Built for performance and scalability.', 'Function', 'Education', '// Sample Function content for Sanitize Misc Data #274

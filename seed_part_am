@@ -1,0 +1,10 @@
+const data = {"tech": "Zapier", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['zapier','automation','module'], 732, 1817, '2026-05-22T20:17:19.084733'),
+('Interactive Angular Chart #60', 'A high-quality component for website development using Angular. Built for performance and scalability.', 'Component', 'Website Development', '// Sample Component content for Interactive Angular Chart #60
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','component','premium'], 4788, 1256, '2025-09-01T20:17:19.084748'),
+('Master General with this AI Prompt #61', 'A high-quality prompt for data science using General. Built for performance and scalability.', 'Prompt', 'Data Science', '// Sample Prompt content for Master General with this AI Prompt #61
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','prompt'], 26, 87, '2025-09-05T20:17:19.084763'),
+('Full General SaaS Template #62', 'A high-quality template for education using General. Built for performance and scalability.', 'Template', 'Education', '// Sample Template content for Full General SaaS Template #62
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','template','premium'], 3979, 57, '2025-10-22T20:17:19.084777'),
+('Premium General Kit #63', 'A high-quality ui/ux for education using General. Built for performance and scalability.', 'UI/UX', 'Education', '// Sample UI/UX content for Premium General Kit #63
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','ui/ux','premium'], 1059, 171, '2026-06-01T20:17:19.084792'),
+('Personal Misc Portfolio #64', 'A high-quality template for education using Misc. Built for performance and scalability.', 'Template', 'Education', '// Sample Template content for Personal Misc Portfolio #64

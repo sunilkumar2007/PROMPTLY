@@ -1,0 +1,10 @@
+const data = {"tech": "Framer Motion", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['framer motion','ui/ux','component','premium','open-source'], 2416, 1469, '2026-04-02T20:17:19.096053'),
+('Reusable OpenAI API Logic #440', 'A high-quality code for ai/ml using OpenAI API. Built for performance and scalability.', 'Code', 'AI/ML', '// Sample Code content for Reusable OpenAI API Logic #440
+const data = {"tech": "OpenAI API", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['openai api','ai/ml','code','premium'], 477, 824, '2026-03-13T20:17:19.096077'),
+('Modern TensorFlow Dashboard #441', 'A high-quality ui/ux for ai/ml using TensorFlow. Built for performance and scalability.', 'UI/UX', 'AI/ML', '// Sample UI/UX content for Modern TensorFlow Dashboard #441
+const data = {"tech": "TensorFlow", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['tensorflow','ai/ml','ui/ux','open-source'], 1249, 90, '2026-07-03T20:17:19.096100'),
+('E-commerce with Zapier #442', 'A high-quality project for automation using Zapier. Built for performance and scalability.', 'Project', 'Automation', '// Sample Project content for E-commerce with Zapier #442
+const data = {"tech": "Zapier", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['zapier','automation','project','premium'], 570, 1478, '2026-08-02T20:17:19.096124'),
+('AI Misc Tool #443', 'A high-quality project for content creation using Misc. Built for performance and scalability.', 'Project', 'Content Creation', '// Sample Project content for AI Misc Tool #443
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','project'], 2488, 1508, '2026-07-17T20:17:19.096163'),
+('Modern React Native Dashboard #444', 'A high-quality ui/ux for mobile applications using React Native. Built for performance and scalability.', 'UI/UX', 'Mobile Applications', '// Sample UI/UX content for Modern React Native Dashboard #444

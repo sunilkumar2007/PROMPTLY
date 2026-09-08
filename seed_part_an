@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','template','premium'], 2841, 868, '2025-11-23T20:17:19.084814'),
+('Format Misc Date #65', 'A high-quality function for education using Misc. Built for performance and scalability.', 'Function', 'Education', '// Sample Function content for Format Misc Date #65
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','function'], 165, 660, '2025-12-24T20:17:19.084829'),
+('Expert Automation Assistant #66', 'A high-quality prompt for automation using Python. Built for performance and scalability.', 'Prompt', 'Automation', '// Sample Prompt content for Expert Automation Assistant #66
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','prompt'], 3847, 624, '2025-10-15T20:17:19.084844'),
+('AI General Tool #67', 'A high-quality project for productivity using General. Built for performance and scalability.', 'Project', 'Productivity', '// Sample Project content for AI General Tool #67
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','project'], 534, 1621, '2026-07-22T20:17:19.084858'),
+('Modern Misc Dashboard #68', 'A high-quality ui/ux for marketing using Misc. Built for performance and scalability.', 'UI/UX', 'Marketing', '// Sample UI/UX content for Modern Misc Dashboard #68
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','ui/ux','open-source'], 492, 546, '2025-12-03T20:17:19.084879'),
+('Expert AI/ML Assistant #69', 'A high-quality prompt for ai/ml using OpenAI API. Built for performance and scalability.', 'Prompt', 'AI/ML', '// Sample Prompt content for Expert AI/ML Assistant #69

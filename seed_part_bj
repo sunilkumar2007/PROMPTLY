@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','project','premium'], 3309, 1286, '2026-07-21T20:17:19.088306'),
+('Responsive Bash Navbar #175', 'A high-quality component for automation using Bash. Built for performance and scalability.', 'Component', 'Automation', '// Sample Component content for Responsive Bash Navbar #175
+const data = {"tech": "Bash", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['bash','automation','component','premium','open-source'], 2392, 1932, '2026-01-27T20:17:19.088328'),
+('Misc State Management #176', 'A high-quality module for content creation using Misc. Built for performance and scalability.', 'Module', 'Content Creation', '// Sample Module content for Misc State Management #176
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','module'], 3254, 704, '2025-12-01T20:17:19.088351'),
+('Minimal Kotlin Design #177', 'A high-quality ui/ux for mobile applications using Kotlin. Built for performance and scalability.', 'UI/UX', 'Mobile Applications', '// Sample UI/UX content for Minimal Kotlin Design #177
+const data = {"tech": "Kotlin", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['kotlin','mobile','ui/ux'], 1136, 1389, '2025-11-07T20:17:19.088375'),
+('Generate General Boilerplate #178', 'A high-quality prompt for education using General. Built for performance and scalability.', 'Prompt', 'Education', '// Sample Prompt content for Generate General Boilerplate #178
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','prompt','premium'], 2241, 1561, '2025-12-25T20:17:19.088395'),
+('Reusable Misc Logic #179', 'A high-quality code for productivity using Misc. Built for performance and scalability.', 'Code', 'Productivity', '// Sample Code content for Reusable Misc Logic #179

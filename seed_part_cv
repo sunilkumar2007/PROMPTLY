@@ -1,0 +1,10 @@
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','template','premium','open-source'], 4702, 1666, '2026-01-20T20:17:19.094191'),
+('General Payment Integration #365', 'A high-quality module for content creation using General. Built for performance and scalability.', 'Module', 'Content Creation', '// Sample Module content for General Payment Integration #365
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','module','premium','open-source'], 3153, 1993, '2026-08-05T20:17:19.094214'),
+('Clean Figma Hook #366', 'A high-quality code for ui/ux using Figma. Built for performance and scalability.', 'Code', 'UI/UX', '// Sample Code content for Clean Figma Hook #366
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','code','premium'], 3193, 878, '2025-08-28T20:17:19.094237'),
+('Animated Misc Button #367', 'A high-quality component for business using Misc. Built for performance and scalability.', 'Component', 'Business', '// Sample Component content for Animated Misc Button #367
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','component'], 663, 1669, '2026-07-13T20:17:19.094260'),
+('Personal Misc Portfolio #368', 'A high-quality template for education using Misc. Built for performance and scalability.', 'Template', 'Education', '// Sample Template content for Personal Misc Portfolio #368
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','template','premium'], 3817, 299, '2025-10-27T20:17:19.094283'),
+('Enterprise Python Admin #369', 'A high-quality template for automation using Python. Built for performance and scalability.', 'Template', 'Automation', '// Sample Template content for Enterprise Python Admin #369

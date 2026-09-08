@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','component','open-source'], 2738, 63, '2026-05-08T20:17:19.086953'),
+('Expert Content Creation Assistant #125', 'A high-quality prompt for content creation using General. Built for performance and scalability.', 'Prompt', 'Content Creation', '// Sample Prompt content for Expert Content Creation Assistant #125
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','prompt','open-source'], 1152, 1045, '2025-12-06T20:17:19.086976'),
+('Generate Misc Boilerplate #126', 'A high-quality prompt for data science using Misc. Built for performance and scalability.', 'Prompt', 'Data Science', '// Sample Prompt content for Generate Misc Boilerplate #126
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','prompt'], 3332, 1793, '2025-12-14T20:17:19.086999'),
+('Reusable Misc Logic #127', 'A high-quality code for content creation using Misc. Built for performance and scalability.', 'Code', 'Content Creation', '// Sample Code content for Reusable Misc Logic #127
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','code'], 3663, 967, '2026-02-11T20:17:19.087021'),
+('Realtime Misc Chat #128', 'A high-quality project for data science using Misc. Built for performance and scalability.', 'Project', 'Data Science', '// Sample Project content for Realtime Misc Chat #128
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','project','premium'], 4360, 266, '2025-09-25T20:17:19.087043'),
+('Expert UI/UX Assistant #129', 'A high-quality prompt for ui/ux using Framer Motion. Built for performance and scalability.', 'Prompt', 'UI/UX', '// Sample Prompt content for Expert UI/UX Assistant #129

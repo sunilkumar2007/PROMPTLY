@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','function','premium'], 4666, 1306, '2026-02-27T20:17:19.094424'),
+('Animated Svelte Button #375', 'A high-quality component for website development using Svelte. Built for performance and scalability.', 'Component', 'Website Development', '// Sample Component content for Animated Svelte Button #375
+const data = {"tech": "Svelte", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['svelte','website','component'], 3430, 755, '2025-09-03T20:17:19.094446'),
+('Responsive Misc Navbar #376', 'A high-quality component for education using Misc. Built for performance and scalability.', 'Component', 'Education', '// Sample Component content for Responsive Misc Navbar #376
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','component','premium','open-source'], 792, 1043, '2025-10-13T20:17:19.094468'),
+('Generate PyTorch Boilerplate #377', 'A high-quality prompt for ai/ml using PyTorch. Built for performance and scalability.', 'Prompt', 'AI/ML', '// Sample Prompt content for Generate PyTorch Boilerplate #377
+const data = {"tech": "PyTorch", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['pytorch','ai/ml','prompt'], 4444, 609, '2025-09-19T20:17:19.094491'),
+('Personal Misc Portfolio #378', 'A high-quality template for education using Misc. Built for performance and scalability.', 'Template', 'Education', '// Sample Template content for Personal Misc Portfolio #378
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','template','premium'], 2112, 1222, '2025-09-21T20:17:19.094523'),
+('Efficient Misc Utility #379', 'A high-quality code for productivity using Misc. Built for performance and scalability.', 'Code', 'Productivity', '// Sample Code content for Efficient Misc Utility #379

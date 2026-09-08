@@ -1,0 +1,50 @@
+const data = {"tech": "Framer Motion", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['framer motion','ui/ux','prompt','open-source'], 1425, 849, '2026-01-21T20:17:19.087065'),
+('Reusable General Logic #130', 'A high-quality code for data science using General. Built for performance and scalability.', 'Code', 'Data Science', '// Sample Code content for Reusable General Logic #130
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','code'], 3060, 502, '2025-12-22T20:17:19.087087'),
+('Python Auth Module #131', 'A high-quality module for ai/ml using Python. Built for performance and scalability.', 'Module', 'AI/ML', '// Sample Module content for Python Auth Module #131
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','ai/ml','module'], 1118, 1811, '2025-11-12T20:17:19.087110'),
+('Personal General Portfolio #132', 'A high-quality template for education using General. Built for performance and scalability.', 'Template', 'Education', '// Sample Template content for Personal General Portfolio #132
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','template','premium'], 3325, 1421, '2026-04-11T20:17:19.087199'),
+('Format OpenAI API Date #133', 'A high-quality function for ai/ml using OpenAI API. Built for performance and scalability.', 'Function', 'AI/ML', '// Sample Function content for Format OpenAI API Date #133
+const data = {"tech": "OpenAI API", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['openai api','ai/ml','function','premium'], 1262, 941, '2026-07-13T20:17:19.087226'),
+('Minimal General Design #134', 'A high-quality ui/ux for marketing using General. Built for performance and scalability.', 'UI/UX', 'Marketing', '// Sample UI/UX content for Minimal General Design #134
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','ui/ux','premium'], 4865, 57, '2026-05-25T20:17:19.087250'),
+('Sanitize General Data #135', 'A high-quality function for data science using General. Built for performance and scalability.', 'Function', 'Data Science', '// Sample Function content for Sanitize General Data #135
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','function','premium','open-source'], 2872, 1503, '2025-12-01T20:17:19.087273'),
+('General Payment Integration #136', 'A high-quality module for business using General. Built for performance and scalability.', 'Module', 'Business', '// Sample Module content for General Payment Integration #136
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','module'], 157, 7, '2026-01-26T20:17:19.087297'),
+('Premium Misc Kit #137', 'A high-quality ui/ux for content creation using Misc. Built for performance and scalability.', 'UI/UX', 'Content Creation', '// Sample UI/UX content for Premium Misc Kit #137
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','ui/ux'], 3822, 1222, '2025-08-24T20:17:19.087320'),
+('Validate Claude Input #138', 'A high-quality function for ai/ml using Claude. Built for performance and scalability.', 'Function', 'AI/ML', '// Sample Function content for Validate Claude Input #138
+const data = {"tech": "Claude", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['claude','ai/ml','function','premium'], 278, 641, '2026-06-27T20:17:19.087343'),
+('Realtime Swift Chat #139', 'A high-quality project for mobile applications using Swift. Built for performance and scalability.', 'Project', 'Mobile Applications', '// Sample Project content for Realtime Swift Chat #139
+const data = {"tech": "Swift", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['swift','mobile','project','premium'], 1538, 412, '2026-01-13T20:17:19.087366'),
+('TensorFlow Payment Integration #140', 'A high-quality module for ai/ml using TensorFlow. Built for performance and scalability.', 'Module', 'AI/ML', '// Sample Module content for TensorFlow Payment Integration #140
+const data = {"tech": "TensorFlow", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['tensorflow','ai/ml','module'], 327, 1043, '2025-11-30T20:17:19.087388'),
+('Responsive Swift Navbar #141', 'A high-quality component for mobile applications using Swift. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Responsive Swift Navbar #141
+const data = {"tech": "Swift", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['swift','mobile','component'], 1057, 458, '2026-01-31T20:17:19.087411'),
+('Efficient GitHub Actions Utility #142', 'A high-quality code for automation using GitHub Actions. Built for performance and scalability.', 'Code', 'Automation', '// Sample Code content for Efficient GitHub Actions Utility #142
+const data = {"tech": "GitHub Actions", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['github actions','automation','code','premium'], 3447, 391, '2026-06-18T20:17:19.087434'),
+('Expert Marketing Assistant #143', 'A high-quality prompt for marketing using General. Built for performance and scalability.', 'Prompt', 'Marketing', '// Sample Prompt content for Expert Marketing Assistant #143
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','prompt','premium'], 3215, 822, '2025-09-15T20:17:19.087457'),
+('Minimal Python Design #144', 'A high-quality ui/ux for ai/ml using Python. Built for performance and scalability.', 'UI/UX', 'AI/ML', '// Sample UI/UX content for Minimal Python Design #144
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','ai/ml','ui/ux'], 4987, 1839, '2026-02-07T20:17:19.087482'),
+('Validate General Input #145', 'A high-quality function for marketing using General. Built for performance and scalability.', 'Function', 'Marketing', '// Sample Function content for Validate General Input #145
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','function','premium','open-source'], 4257, 333, '2025-10-09T20:17:19.087513'),
+('Responsive Kotlin Navbar #146', 'A high-quality component for mobile applications using Kotlin. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Responsive Kotlin Navbar #146
+const data = {"tech": "Kotlin", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['kotlin','mobile','component','open-source'], 4081, 578, '2026-05-14T20:17:19.087539'),
+('Clean Misc Hook #147', 'A high-quality code for education using Misc. Built for performance and scalability.', 'Code', 'Education', '// Sample Code content for Clean Misc Hook #147
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','code','premium'], 1909, 1087, '2025-08-30T20:17:19.087562'),
+('Enterprise Node.js Admin #148', 'A high-quality template for website development using Node.js. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Enterprise Node.js Admin #148
+const data = {"tech": "Node.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['node.js','website','template','premium'], 2615, 601, '2026-06-08T20:17:19.087585'),
+('Realtime General Chat #149', 'A high-quality project for productivity using General. Built for performance and scalability.', 'Project', 'Productivity', '// Sample Project content for Realtime General Chat #149
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','project','premium'], 2822, 1456, '2026-03-08T20:17:19.087608');
+INSERT INTO public.resources (title, description, type, category, content, creator_id, tags, likes_count, saves_count, created_at) VALUES ('Dart Auth Module #150', 'A high-quality module for mobile applications using Dart. Built for performance and scalability.', 'Module', 'Mobile Applications', '// Sample Module content for Dart Auth Module #150
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','module','premium'], 311, 617, '2026-07-17T20:17:19.087738'),
+('Expert Mobile Applications Assistant #151', 'A high-quality prompt for mobile applications using Flutter. Built for performance and scalability.', 'Prompt', 'Mobile Applications', '// Sample Prompt content for Expert Mobile Applications Assistant #151
+const data = {"tech": "Flutter", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['flutter','mobile','prompt','premium','open-source'], 3908, 827, '2025-11-04T20:17:19.087764'),
+('Premium General Kit #152', 'A high-quality ui/ux for education using General. Built for performance and scalability.', 'UI/UX', 'Education', '// Sample UI/UX content for Premium General Kit #152
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','ui/ux'], 1530, 306, '2026-07-29T20:17:19.087787'),
+('Personal Python Portfolio #153', 'A high-quality template for automation using Python. Built for performance and scalability.', 'Template', 'Automation', '// Sample Template content for Personal Python Portfolio #153
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','template','premium'], 1256, 1447, '2025-08-10T20:17:19.087810'),
+('AI Misc Tool #154', 'A high-quality project for education using Misc. Built for performance and scalability.', 'Project', 'Education', '// Sample Project content for AI Misc Tool #154

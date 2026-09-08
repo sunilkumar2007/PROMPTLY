@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','ui/ux'], 607, 960, '2025-10-26T20:17:19.084301'),
+('Full Angular SaaS Template #45', 'A high-quality template for website development using Angular. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Full Angular SaaS Template #45
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','template','premium'], 1291, 1199, '2025-12-26T20:17:19.084320'),
+('Reusable Dart Logic #46', 'A high-quality code for mobile applications using Dart. Built for performance and scalability.', 'Code', 'Mobile Applications', '// Sample Code content for Reusable Dart Logic #46
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','code','premium'], 3173, 1471, '2025-11-16T20:17:19.084339'),
+('Premium Misc Kit #47', 'A high-quality ui/ux for business using Misc. Built for performance and scalability.', 'UI/UX', 'Business', '// Sample UI/UX content for Premium Misc Kit #47
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','ui/ux'], 2984, 56, '2026-01-20T20:17:19.084357'),
+('Node.js State Management #48', 'A high-quality module for website development using Node.js. Built for performance and scalability.', 'Module', 'Website Development', '// Sample Module content for Node.js State Management #48
+const data = {"tech": "Node.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['node.js','website','module','premium'], 3411, 1098, '2025-12-30T20:17:19.084375'),
+('Sanitize TensorFlow Data #49', 'A high-quality function for ai/ml using TensorFlow. Built for performance and scalability.', 'Function', 'AI/ML', '// Sample Function content for Sanitize TensorFlow Data #49

@@ -1,0 +1,10 @@
+const data = {"tech": "Adobe XD", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['adobe xd','ui/ux','template','premium','open-source'], 4924, 1602, '2025-12-07T20:17:19.095593'),
+('E-commerce with Angular #420', 'A high-quality project for website development using Angular. Built for performance and scalability.', 'Project', 'Website Development', '// Sample Project content for E-commerce with Angular #420
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','project','premium'], 1419, 1379, '2026-02-28T20:17:19.095616'),
+('Efficient TensorFlow Utility #421', 'A high-quality code for ai/ml using TensorFlow. Built for performance and scalability.', 'Code', 'AI/ML', '// Sample Code content for Efficient TensorFlow Utility #421
+const data = {"tech": "TensorFlow", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['tensorflow','ai/ml','code','premium','open-source'], 609, 1353, '2026-05-23T20:17:19.095639'),
+('Personal Misc Portfolio #422', 'A high-quality template for productivity using Misc. Built for performance and scalability.', 'Template', 'Productivity', '// Sample Template content for Personal Misc Portfolio #422
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','template','premium','open-source'], 1007, 1666, '2026-07-20T20:17:19.095662'),
+('Validate Figma Input #423', 'A high-quality function for ui/ux using Figma. Built for performance and scalability.', 'Function', 'UI/UX', '// Sample Function content for Validate Figma Input #423
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','function'], 2061, 1106, '2026-03-29T20:17:19.095685'),
+('Sanitize Misc Data #424', 'A high-quality function for business using Misc. Built for performance and scalability.', 'Function', 'Business', '// Sample Function content for Sanitize Misc Data #424

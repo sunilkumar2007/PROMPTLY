@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','project','premium'], 4627, 658, '2025-09-10T20:17:19.095006');
+INSERT INTO public.resources (title, description, type, category, content, creator_id, tags, likes_count, saves_count, created_at) VALUES ('Generate Misc Boilerplate #400', 'A high-quality prompt for productivity using Misc. Built for performance and scalability.', 'Prompt', 'Productivity', '// Sample Prompt content for Generate Misc Boilerplate #400
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','prompt','premium'], 755, 341, '2026-05-03T20:17:19.095142'),
+('Personal Misc Portfolio #401', 'A high-quality template for data science using Misc. Built for performance and scalability.', 'Template', 'Data Science', '// Sample Template content for Personal Misc Portfolio #401
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','template','premium'], 605, 584, '2026-07-08T20:17:19.095171'),
+('Responsive General Navbar #402', 'A high-quality component for content creation using General. Built for performance and scalability.', 'Component', 'Content Creation', '// Sample Component content for Responsive General Navbar #402
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','component'], 3840, 949, '2026-03-26T20:17:19.095195'),
+('Sanitize Zapier Data #403', 'A high-quality function for automation using Zapier. Built for performance and scalability.', 'Function', 'Automation', '// Sample Function content for Sanitize Zapier Data #403
+const data = {"tech": "Zapier", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['zapier','automation','function','open-source'], 552, 1715, '2025-08-21T20:17:19.095218'),
+('Enterprise Misc Admin #404', 'A high-quality template for business using Misc. Built for performance and scalability.', 'Template', 'Business', '// Sample Template content for Enterprise Misc Admin #404

@@ -1,0 +1,10 @@
+const data = {"tech": "Vue", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['vue','website','function'], 2921, 1251, '2026-06-04T20:17:19.091656');
+INSERT INTO public.resources (title, description, type, category, content, creator_id, tags, likes_count, saves_count, created_at) VALUES ('Format Misc Date #300', 'A high-quality function for marketing using Misc. Built for performance and scalability.', 'Function', 'Marketing', '// Sample Function content for Format Misc Date #300
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','function'], 2396, 1048, '2026-02-28T20:17:19.092300'),
+('Personal TypeScript Portfolio #301', 'A high-quality template for website development using TypeScript. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Personal TypeScript Portfolio #301
+const data = {"tech": "TypeScript", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['typescript','website','template'], 3180, 764, '2025-09-04T20:17:19.092340'),
+('Premium TensorFlow Kit #302', 'A high-quality ui/ux for ai/ml using TensorFlow. Built for performance and scalability.', 'UI/UX', 'AI/ML', '// Sample UI/UX content for Premium TensorFlow Kit #302
+const data = {"tech": "TensorFlow", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['tensorflow','ai/ml','ui/ux','premium'], 3769, 1388, '2026-06-06T20:17:19.092367'),
+('AI Adobe XD Tool #303', 'A high-quality project for ui/ux using Adobe XD. Built for performance and scalability.', 'Project', 'UI/UX', '// Sample Project content for AI Adobe XD Tool #303
+const data = {"tech": "Adobe XD", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['adobe xd','ui/ux','project','open-source'], 3212, 861, '2026-07-15T20:17:19.092392'),
+('Reusable Hugging Face Logic #304', 'A high-quality code for ai/ml using Hugging Face. Built for performance and scalability.', 'Code', 'AI/ML', '// Sample Code content for Reusable Hugging Face Logic #304

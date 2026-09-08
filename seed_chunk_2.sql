@@ -1,0 +1,50 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','module','open-source'], 278, 1140, '2025-08-28T20:17:19.077890'),
+('Full General SaaS Template #25', 'A high-quality template for business using General. Built for performance and scalability.', 'Template', 'Business', '// Sample Template content for Full General SaaS Template #25
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','template'], 2744, 1771, '2026-02-21T20:17:19.077913'),
+('E-commerce with General #26', 'A high-quality project for productivity using General. Built for performance and scalability.', 'Project', 'Productivity', '// Sample Project content for E-commerce with General #26
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','project','premium'], 4673, 1943, '2025-09-18T20:17:19.077935'),
+('Efficient General Utility #27', 'A high-quality code for business using General. Built for performance and scalability.', 'Code', 'Business', '// Sample Code content for Efficient General Utility #27
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','code','premium','open-source'], 4461, 940, '2026-06-13T20:17:19.077958'),
+('Modern Python Dashboard #28', 'A high-quality ui/ux for automation using Python. Built for performance and scalability.', 'UI/UX', 'Automation', '// Sample UI/UX content for Modern Python Dashboard #28
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','ui/ux','premium'], 477, 1649, '2026-02-10T20:17:19.077983'),
+('Dart Auth Module #29', 'A high-quality module for mobile applications using Dart. Built for performance and scalability.', 'Module', 'Mobile Applications', '// Sample Module content for Dart Auth Module #29
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','module','open-source'], 3966, 1907, '2025-11-16T20:17:19.078006'),
+('Efficient General Utility #30', 'A high-quality code for content creation using General. Built for performance and scalability.', 'Code', 'Content Creation', '// Sample Code content for Efficient General Utility #30
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','code','premium'], 4353, 1114, '2025-09-09T20:17:19.078028'),
+('Interactive React Native Chart #31', 'A high-quality component for mobile applications using React Native. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Interactive React Native Chart #31
+const data = {"tech": "React Native", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['react native','mobile','component','premium'], 3141, 1944, '2025-12-14T20:17:19.078057'),
+('Responsive Flutter Navbar #32', 'A high-quality component for mobile applications using Flutter. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Responsive Flutter Navbar #32
+const data = {"tech": "Flutter", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['flutter','mobile','component','premium'], 152, 974, '2025-10-30T20:17:19.078079'),
+('Expert Business Assistant #33', 'A high-quality prompt for business using Misc. Built for performance and scalability.', 'Prompt', 'Business', '// Sample Prompt content for Expert Business Assistant #33
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','prompt','premium'], 3102, 1935, '2025-11-05T20:17:19.078102'),
+('E-commerce with Angular #34', 'A high-quality project for website development using Angular. Built for performance and scalability.', 'Project', 'Website Development', '// Sample Project content for E-commerce with Angular #34
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','project','premium'], 1364, 345, '2026-08-04T20:17:19.078124'),
+('Animated Misc Button #35', 'A high-quality component for data science using Misc. Built for performance and scalability.', 'Component', 'Data Science', '// Sample Component content for Animated Misc Button #35
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','component'], 3640, 1593, '2025-11-22T20:17:19.080239'),
+('Animated General Button #36', 'A high-quality component for data science using General. Built for performance and scalability.', 'Component', 'Data Science', '// Sample Component content for Animated General Button #36
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','component','premium','open-source'], 3571, 840, '2026-01-02T20:17:19.080282'),
+('Expert Website Development Assistant #37', 'A high-quality prompt for website development using Angular. Built for performance and scalability.', 'Prompt', 'Website Development', '// Sample Prompt content for Expert Website Development Assistant #37
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','prompt'], 2485, 1044, '2026-05-04T20:17:19.080323'),
+('Enterprise General Admin #38', 'A high-quality template for marketing using General. Built for performance and scalability.', 'Template', 'Marketing', '// Sample Template content for Enterprise General Admin #38
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','template'], 639, 23, '2026-07-08T20:17:19.080348'),
+('E-commerce with General #39', 'A high-quality project for marketing using General. Built for performance and scalability.', 'Project', 'Marketing', '// Sample Project content for E-commerce with General #39
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','project'], 1611, 1, '2026-01-20T20:17:19.080377'),
+('General Payment Integration #40', 'A high-quality module for content creation using General. Built for performance and scalability.', 'Module', 'Content Creation', '// Sample Module content for General Payment Integration #40
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','module','open-source'], 2279, 1311, '2026-05-08T20:17:19.080399'),
+('AI Misc Tool #41', 'A high-quality project for content creation using Misc. Built for performance and scalability.', 'Project', 'Content Creation', '// Sample Project content for AI Misc Tool #41
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','project'], 76, 1974, '2026-07-25T20:17:19.084225'),
+('Responsive Svelte Navbar #42', 'A high-quality component for website development using Svelte. Built for performance and scalability.', 'Component', 'Website Development', '// Sample Component content for Responsive Svelte Navbar #42
+const data = {"tech": "Svelte", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['svelte','website','component','premium','open-source'], 752, 603, '2026-05-02T20:17:19.084260'),
+('Clean Adobe XD Hook #43', 'A high-quality code for ui/ux using Adobe XD. Built for performance and scalability.', 'Code', 'UI/UX', '// Sample Code content for Clean Adobe XD Hook #43
+const data = {"tech": "Adobe XD", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['adobe xd','ui/ux','code'], 4420, 190, '2026-02-28T20:17:19.084281'),
+('Modern General Dashboard #44', 'A high-quality ui/ux for productivity using General. Built for performance and scalability.', 'UI/UX', 'Productivity', '// Sample UI/UX content for Modern General Dashboard #44
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','ui/ux'], 607, 960, '2025-10-26T20:17:19.084301'),
+('Full Angular SaaS Template #45', 'A high-quality template for website development using Angular. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Full Angular SaaS Template #45
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','template','premium'], 1291, 1199, '2025-12-26T20:17:19.084320'),
+('Reusable Dart Logic #46', 'A high-quality code for mobile applications using Dart. Built for performance and scalability.', 'Code', 'Mobile Applications', '// Sample Code content for Reusable Dart Logic #46
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','code','premium'], 3173, 1471, '2025-11-16T20:17:19.084339'),
+('Premium Misc Kit #47', 'A high-quality ui/ux for business using Misc. Built for performance and scalability.', 'UI/UX', 'Business', '// Sample UI/UX content for Premium Misc Kit #47
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','ui/ux'], 2984, 56, '2026-01-20T20:17:19.084357'),
+('Node.js State Management #48', 'A high-quality module for website development using Node.js. Built for performance and scalability.', 'Module', 'Website Development', '// Sample Module content for Node.js State Management #48
+const data = {"tech": "Node.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['node.js','website','module','premium'], 3411, 1098, '2025-12-30T20:17:19.084375'),
+('Sanitize TensorFlow Data #49', 'A high-quality function for ai/ml using TensorFlow. Built for performance and scalability.', 'Function', 'AI/ML', '// Sample Function content for Sanitize TensorFlow Data #49

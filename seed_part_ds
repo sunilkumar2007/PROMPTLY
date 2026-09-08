@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','function','premium'], 4969, 350, '2026-04-09T20:17:19.097124'),
+('Generate General Boilerplate #480', 'A high-quality prompt for business using General. Built for performance and scalability.', 'Prompt', 'Business', '// Sample Prompt content for Generate General Boilerplate #480
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','prompt','open-source'], 2007, 1283, '2025-11-08T20:17:19.097161'),
+('Animated Svelte Button #481', 'A high-quality component for website development using Svelte. Built for performance and scalability.', 'Component', 'Website Development', '// Sample Component content for Animated Svelte Button #481
+const data = {"tech": "Svelte", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['svelte','website','component','premium'], 3326, 264, '2026-01-11T20:17:19.097184'),
+('Personal Figma Portfolio #482', 'A high-quality template for ui/ux using Figma. Built for performance and scalability.', 'Template', 'UI/UX', '// Sample Template content for Personal Figma Portfolio #482
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','template','premium'], 1975, 166, '2025-11-15T20:17:19.097207'),
+('Expert Content Creation Assistant #483', 'A high-quality prompt for content creation using General. Built for performance and scalability.', 'Prompt', 'Content Creation', '// Sample Prompt content for Expert Content Creation Assistant #483
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','prompt'], 3739, 793, '2025-08-25T20:17:19.097230'),
+('Realtime Misc Chat #484', 'A high-quality project for productivity using Misc. Built for performance and scalability.', 'Project', 'Productivity', '// Sample Project content for Realtime Misc Chat #484

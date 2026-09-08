@@ -1,0 +1,10 @@
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','code'], 3378, 1222, '2026-03-02T20:17:19.086420'),
+('Enterprise Sketch Admin #105', 'A high-quality template for ui/ux using Sketch. Built for performance and scalability.', 'Template', 'UI/UX', '// Sample Template content for Enterprise Sketch Admin #105
+const data = {"tech": "Sketch", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['sketch','ui/ux','template'], 3597, 1401, '2026-08-07T20:17:19.086443'),
+('Format General Date #106', 'A high-quality function for marketing using General. Built for performance and scalability.', 'Function', 'Marketing', '// Sample Function content for Format General Date #106
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','function'], 3287, 1938, '2026-03-06T20:17:19.086466'),
+('Animated General Button #107', 'A high-quality component for marketing using General. Built for performance and scalability.', 'Component', 'Marketing', '// Sample Component content for Animated General Button #107
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','component','premium'], 953, 1803, '2026-05-24T20:17:19.086489'),
+('E-commerce with General #108', 'A high-quality project for productivity using General. Built for performance and scalability.', 'Project', 'Productivity', '// Sample Project content for E-commerce with General #108
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','project','open-source'], 4334, 1428, '2026-04-21T20:17:19.086521'),
+('Misc State Management #109', 'A high-quality module for productivity using Misc. Built for performance and scalability.', 'Module', 'Productivity', '// Sample Module content for Misc State Management #109

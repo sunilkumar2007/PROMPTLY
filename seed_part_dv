@@ -1,0 +1,10 @@
+const data = {"tech": "GitHub Actions", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['github actions','automation','ui/ux'], 2053, 629, '2025-10-21T20:17:19.097476'),
+('Minimal General Design #495', 'A high-quality ui/ux for productivity using General. Built for performance and scalability.', 'UI/UX', 'Productivity', '// Sample UI/UX content for Minimal General Design #495
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','ui/ux'], 2758, 1575, '2026-03-04T20:17:19.097499'),
+('Expert AI/ML Assistant #496', 'A high-quality prompt for ai/ml using LangChain. Built for performance and scalability.', 'Prompt', 'AI/ML', '// Sample Prompt content for Expert AI/ML Assistant #496
+const data = {"tech": "LangChain", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['langchain','ai/ml','prompt'], 3453, 72, '2025-08-13T20:17:19.097529'),
+('Personal Python Portfolio #497', 'A high-quality template for automation using Python. Built for performance and scalability.', 'Template', 'Automation', '// Sample Template content for Personal Python Portfolio #497
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','template'], 151, 1901, '2026-06-30T20:17:19.097551'),
+('Generate OpenAI API Boilerplate #498', 'A high-quality prompt for ai/ml using OpenAI API. Built for performance and scalability.', 'Prompt', 'AI/ML', '// Sample Prompt content for Generate OpenAI API Boilerplate #498
+const data = {"tech": "OpenAI API", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['openai api','ai/ml','prompt'], 2492, 1509, '2026-06-05T20:17:19.097575'),
+('Clean General Hook #499', 'A high-quality code for education using General. Built for performance and scalability.', 'Code', 'Education', '// Sample Code content for Clean General Hook #499

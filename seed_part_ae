@@ -1,0 +1,10 @@
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','module','premium'], 2794, 1801, '2026-06-20T20:17:19.077775'),
+('Realtime Swift Chat #20', 'A high-quality project for mobile applications using Swift. Built for performance and scalability.', 'Project', 'Mobile Applications', '// Sample Project content for Realtime Swift Chat #20
+const data = {"tech": "Swift", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['swift','mobile','project'], 2802, 252, '2026-06-10T20:17:19.077798'),
+('Efficient General Utility #21', 'A high-quality code for productivity using General. Built for performance and scalability.', 'Code', 'Productivity', '// Sample Code content for Efficient General Utility #21
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','code'], 3294, 663, '2026-04-29T20:17:19.077820'),
+('Interactive General Chart #22', 'A high-quality component for data science using General. Built for performance and scalability.', 'Component', 'Data Science', '// Sample Component content for Interactive General Chart #22
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','component','premium','open-source'], 3662, 1721, '2026-07-03T20:17:19.077843'),
+('Reusable General Logic #23', 'A high-quality code for productivity using General. Built for performance and scalability.', 'Code', 'Productivity', '// Sample Code content for Reusable General Logic #23
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','code','premium'], 1619, 443, '2026-06-17T20:17:19.077867'),
+('General Auth Module #24', 'A high-quality module for business using General. Built for performance and scalability.', 'Module', 'Business', '// Sample Module content for General Auth Module #24

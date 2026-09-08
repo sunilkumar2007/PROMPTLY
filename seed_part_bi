@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','code'], 815, 1379, '2026-04-22T20:17:19.088195'),
+('Interactive Kotlin Chart #170', 'A high-quality component for mobile applications using Kotlin. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Interactive Kotlin Chart #170
+const data = {"tech": "Kotlin", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['kotlin','mobile','component','open-source'], 4135, 59, '2026-01-04T20:17:19.088217'),
+('Modern Swift Dashboard #171', 'A high-quality ui/ux for mobile applications using Swift. Built for performance and scalability.', 'UI/UX', 'Mobile Applications', '// Sample UI/UX content for Modern Swift Dashboard #171
+const data = {"tech": "Swift", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['swift','mobile','ui/ux','premium'], 4468, 1553, '2025-10-09T20:17:19.088239'),
+('Enterprise Claude Admin #172', 'A high-quality template for ai/ml using Claude. Built for performance and scalability.', 'Template', 'AI/ML', '// Sample Template content for Enterprise Claude Admin #172
+const data = {"tech": "Claude", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['claude','ai/ml','template'], 4217, 493, '2026-06-26T20:17:19.088261'),
+('Responsive Bash Navbar #173', 'A high-quality component for automation using Bash. Built for performance and scalability.', 'Component', 'Automation', '// Sample Component content for Responsive Bash Navbar #173
+const data = {"tech": "Bash", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['bash','automation','component'], 2575, 91, '2025-12-22T20:17:19.088283'),
+('AI Misc Tool #174', 'A high-quality project for business using Misc. Built for performance and scalability.', 'Project', 'Business', '// Sample Project content for AI Misc Tool #174

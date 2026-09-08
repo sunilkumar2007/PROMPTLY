@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','template'], 3629, 1314, '2025-10-03T20:17:19.089811'),
+('Full General SaaS Template #230', 'A high-quality template for marketing using General. Built for performance and scalability.', 'Template', 'Marketing', '// Sample Template content for Full General SaaS Template #230
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','template','premium'], 2339, 470, '2026-01-30T20:17:19.089833'),
+('Interactive React Native Chart #231', 'A high-quality component for mobile applications using React Native. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Interactive React Native Chart #231
+const data = {"tech": "React Native", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['react native','mobile','component','open-source'], 4580, 1216, '2025-09-18T20:17:19.089856'),
+('Misc Auth Module #232', 'A high-quality module for business using Misc. Built for performance and scalability.', 'Module', 'Business', '// Sample Module content for Misc Auth Module #232
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','module'], 1381, 541, '2025-10-02T20:17:19.089879'),
+('Sanitize Misc Data #233', 'A high-quality function for business using Misc. Built for performance and scalability.', 'Function', 'Business', '// Sample Function content for Sanitize Misc Data #233
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','function','premium'], 3877, 764, '2025-11-11T20:17:19.089902'),
+('Modern Misc Dashboard #234', 'A high-quality ui/ux for content creation using Misc. Built for performance and scalability.', 'UI/UX', 'Content Creation', '// Sample UI/UX content for Modern Misc Dashboard #234

@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','ui/ux'], 894, 429, '2026-03-31T20:17:19.096315');
+INSERT INTO public.resources (title, description, type, category, content, creator_id, tags, likes_count, saves_count, created_at) VALUES ('Minimal General Design #450', 'A high-quality ui/ux for productivity using General. Built for performance and scalability.', 'UI/UX', 'Productivity', '// Sample UI/UX content for Minimal General Design #450
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','ui/ux','premium'], 2950, 1106, '2026-03-30T20:17:19.096423'),
+('Full Misc SaaS Template #451', 'A high-quality template for business using Misc. Built for performance and scalability.', 'Template', 'Business', '// Sample Template content for Full Misc SaaS Template #451
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','template'], 3494, 1659, '2026-06-05T20:17:19.096449'),
+('Animated Misc Button #452', 'A high-quality component for education using Misc. Built for performance and scalability.', 'Component', 'Education', '// Sample Component content for Animated Misc Button #452
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','component','open-source'], 994, 54, '2026-06-25T20:17:19.096474'),
+('React Native State Management #453', 'A high-quality module for mobile applications using React Native. Built for performance and scalability.', 'Module', 'Mobile Applications', '// Sample Module content for React Native State Management #453
+const data = {"tech": "React Native", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['react native','mobile','module','premium'], 4309, 1390, '2025-09-16T20:17:19.096496'),
+('E-commerce with Misc #454', 'A high-quality project for business using Misc. Built for performance and scalability.', 'Project', 'Business', '// Sample Project content for E-commerce with Misc #454

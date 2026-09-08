@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','prompt'], 2657, 678, '2026-05-08T20:17:19.086012'),
+('Interactive Hugging Face Chart #95', 'A high-quality component for ai/ml using Hugging Face. Built for performance and scalability.', 'Component', 'AI/ML', '// Sample Component content for Interactive Hugging Face Chart #95
+const data = {"tech": "Hugging Face", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['hugging face','ai/ml','component'], 2350, 1435, '2026-02-23T20:17:19.086046'),
+('Minimal Claude Design #96', 'A high-quality ui/ux for ai/ml using Claude. Built for performance and scalability.', 'UI/UX', 'AI/ML', '// Sample UI/UX content for Minimal Claude Design #96
+const data = {"tech": "Claude", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['claude','ai/ml','ui/ux','premium','open-source'], 4155, 1171, '2025-12-26T20:17:19.086069'),
+('Full Misc SaaS Template #97', 'A high-quality template for content creation using Misc. Built for performance and scalability.', 'Template', 'Content Creation', '// Sample Template content for Full Misc SaaS Template #97
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','template'], 419, 145, '2026-04-20T20:17:19.086093'),
+('Modern Node.js Dashboard #98', 'A high-quality ui/ux for website development using Node.js. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Modern Node.js Dashboard #98
+const data = {"tech": "Node.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['node.js','website','ui/ux','open-source'], 23, 125, '2026-03-29T20:17:19.086116'),
+('Generate Angular Boilerplate #99', 'A high-quality prompt for website development using Angular. Built for performance and scalability.', 'Prompt', 'Website Development', '// Sample Prompt content for Generate Angular Boilerplate #99

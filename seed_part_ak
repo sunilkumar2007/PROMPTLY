@@ -1,0 +1,10 @@
+const data = {"tech": "TensorFlow", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['tensorflow','ai/ml','function','premium'], 3396, 1586, '2025-09-01T20:17:19.084396');
+INSERT INTO public.resources (title, description, type, category, content, creator_id, tags, likes_count, saves_count, created_at) VALUES ('Animated General Button #50', 'A high-quality component for productivity using General. Built for performance and scalability.', 'Component', 'Productivity', '// Sample Component content for Animated General Button #50
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','component'], 1426, 611, '2025-09-25T20:17:19.084593'),
+('Personal Misc Portfolio #51', 'A high-quality template for productivity using Misc. Built for performance and scalability.', 'Template', 'Productivity', '// Sample Template content for Personal Misc Portfolio #51
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','template','open-source'], 3406, 1501, '2025-12-27T20:17:19.084612'),
+('Clean Misc Hook #52', 'A high-quality code for marketing using Misc. Built for performance and scalability.', 'Code', 'Marketing', '// Sample Code content for Clean Misc Hook #52
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','code'], 1719, 504, '2026-01-27T20:17:19.084627'),
+('Sanitize Misc Data #53', 'A high-quality function for education using Misc. Built for performance and scalability.', 'Function', 'Education', '// Sample Function content for Sanitize Misc Data #53
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','function','premium'], 2895, 1448, '2026-07-25T20:17:19.084642'),
+('Full General SaaS Template #54', 'A high-quality template for data science using General. Built for performance and scalability.', 'Template', 'Data Science', '// Sample Template content for Full General SaaS Template #54

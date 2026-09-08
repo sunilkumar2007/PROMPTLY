@@ -1,0 +1,10 @@
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','ai/ml','ui/ux','open-source'], 3601, 557, '2025-11-25T20:17:19.095468'),
+('Premium Framer Motion Kit #415', 'A high-quality ui/ux for ui/ux using Framer Motion. Built for performance and scalability.', 'UI/UX', 'UI/UX', '// Sample UI/UX content for Premium Framer Motion Kit #415
+const data = {"tech": "Framer Motion", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['framer motion','ui/ux','ui/ux'], 2618, 1386, '2025-11-20T20:17:19.095492'),
+('Misc State Management #416', 'A high-quality module for marketing using Misc. Built for performance and scalability.', 'Module', 'Marketing', '// Sample Module content for Misc State Management #416
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','module','premium'], 4660, 1593, '2026-02-09T20:17:19.095522'),
+('Full TypeScript SaaS Template #417', 'A high-quality template for website development using TypeScript. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Full TypeScript SaaS Template #417
+const data = {"tech": "TypeScript", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['typescript','website','template','premium','open-source'], 1112, 1960, '2026-03-14T20:17:19.095546'),
+('Enterprise Python Admin #418', 'A high-quality template for automation using Python. Built for performance and scalability.', 'Template', 'Automation', '// Sample Template content for Enterprise Python Admin #418
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','template','premium','open-source'], 258, 1792, '2025-08-20T20:17:19.095570'),
+('Full Adobe XD SaaS Template #419', 'A high-quality template for ui/ux using Adobe XD. Built for performance and scalability.', 'Template', 'UI/UX', '// Sample Template content for Full Adobe XD SaaS Template #419

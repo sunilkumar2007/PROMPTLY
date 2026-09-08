@@ -1,0 +1,10 @@
+const data = {"tech": "Zapier", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['zapier','automation','ui/ux','open-source'], 537, 1620, '2026-02-27T20:17:19.094661'),
+('Efficient Misc Utility #385', 'A high-quality code for data science using Misc. Built for performance and scalability.', 'Code', 'Data Science', '// Sample Code content for Efficient Misc Utility #385
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','code'], 680, 712, '2026-01-23T20:17:19.094685'),
+('Efficient General Utility #386', 'A high-quality code for marketing using General. Built for performance and scalability.', 'Code', 'Marketing', '// Sample Code content for Efficient General Utility #386
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','code','premium','open-source'], 2566, 1914, '2025-12-27T20:17:19.094707'),
+('Premium Framer Motion Kit #387', 'A high-quality ui/ux for ui/ux using Framer Motion. Built for performance and scalability.', 'UI/UX', 'UI/UX', '// Sample UI/UX content for Premium Framer Motion Kit #387
+const data = {"tech": "Framer Motion", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['framer motion','ui/ux','ui/ux'], 1804, 718, '2025-10-29T20:17:19.094731'),
+('AI Misc Tool #388', 'A high-quality project for marketing using Misc. Built for performance and scalability.', 'Project', 'Marketing', '// Sample Project content for AI Misc Tool #388
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','project','premium','open-source'], 2206, 1556, '2025-09-23T20:17:19.094753'),
+('Efficient General Utility #389', 'A high-quality code for education using General. Built for performance and scalability.', 'Code', 'Education', '// Sample Code content for Efficient General Utility #389

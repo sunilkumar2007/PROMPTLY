@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','template','premium'], 1024, 739, '2025-12-21T20:17:19.084657'),
+('Minimal Tailwind CSS Design #55', 'A high-quality ui/ux for website development using Tailwind CSS. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Minimal Tailwind CSS Design #55
+const data = {"tech": "Tailwind CSS", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['tailwind css','website','ui/ux','premium'], 29, 867, '2026-02-23T20:17:19.084672'),
+('Modern OpenAI API Dashboard #56', 'A high-quality ui/ux for ai/ml using OpenAI API. Built for performance and scalability.', 'UI/UX', 'AI/ML', '// Sample UI/UX content for Modern OpenAI API Dashboard #56
+const data = {"tech": "OpenAI API", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['openai api','ai/ml','ui/ux'], 3746, 559, '2025-08-27T20:17:19.084687'),
+('Enterprise General Admin #57', 'A high-quality template for content creation using General. Built for performance and scalability.', 'Template', 'Content Creation', '// Sample Template content for Enterprise General Admin #57
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','template'], 2895, 194, '2026-08-05T20:17:19.084704'),
+('Misc Auth Module #58', 'A high-quality module for data science using Misc. Built for performance and scalability.', 'Module', 'Data Science', '// Sample Module content for Misc Auth Module #58
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','module','premium','open-source'], 3549, 233, '2025-11-08T20:17:19.084719'),
+('Zapier Payment Integration #59', 'A high-quality module for automation using Zapier. Built for performance and scalability.', 'Module', 'Automation', '// Sample Module content for Zapier Payment Integration #59

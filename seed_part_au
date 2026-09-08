@@ -1,0 +1,10 @@
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','prompt','open-source'], 2331, 614, '2025-12-14T20:17:19.086152');
+INSERT INTO public.resources (title, description, type, category, content, creator_id, tags, likes_count, saves_count, created_at) VALUES ('Master Misc with this AI Prompt #100', 'A high-quality prompt for business using Misc. Built for performance and scalability.', 'Prompt', 'Business', '// Sample Prompt content for Master Misc with this AI Prompt #100
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','prompt','open-source'], 1041, 747, '2025-10-21T20:17:19.086318'),
+('E-commerce with OpenAI API #101', 'A high-quality project for ai/ml using OpenAI API. Built for performance and scalability.', 'Project', 'AI/ML', '// Sample Project content for E-commerce with OpenAI API #101
+const data = {"tech": "OpenAI API", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['openai api','ai/ml','project','premium','open-source'], 2907, 1042, '2026-04-23T20:17:19.086344'),
+('Generate Python Boilerplate #102', 'A high-quality prompt for ai/ml using Python. Built for performance and scalability.', 'Prompt', 'AI/ML', '// Sample Prompt content for Generate Python Boilerplate #102
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','ai/ml','prompt'], 2887, 1167, '2025-08-07T20:17:19.086372'),
+('Format General Date #103', 'A high-quality function for productivity using General. Built for performance and scalability.', 'Function', 'Productivity', '// Sample Function content for Format General Date #103
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','function','premium'], 2063, 620, '2026-06-04T20:17:19.086396'),
+('Reusable Dart Logic #104', 'A high-quality code for mobile applications using Dart. Built for performance and scalability.', 'Code', 'Mobile Applications', '// Sample Code content for Reusable Dart Logic #104

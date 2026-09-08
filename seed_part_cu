@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','module'], 1049, 629, '2026-07-23T20:17:19.094050'),
+('Generate Bash Boilerplate #360', 'A high-quality prompt for automation using Bash. Built for performance and scalability.', 'Prompt', 'Automation', '// Sample Prompt content for Generate Bash Boilerplate #360
+const data = {"tech": "Bash", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['bash','automation','prompt','premium'], 2499, 1154, '2026-01-29T20:17:19.094072'),
+('Framer Motion State Management #361', 'A high-quality module for ui/ux using Framer Motion. Built for performance and scalability.', 'Module', 'UI/UX', '// Sample Module content for Framer Motion State Management #361
+const data = {"tech": "Framer Motion", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['framer motion','ui/ux','module','premium'], 147, 36, '2025-09-10T20:17:19.094095'),
+('Responsive Misc Navbar #362', 'A high-quality component for business using Misc. Built for performance and scalability.', 'Component', 'Business', '// Sample Component content for Responsive Misc Navbar #362
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','component','premium'], 3895, 1002, '2025-10-06T20:17:19.094117'),
+('Sanitize General Data #363', 'A high-quality function for productivity using General. Built for performance and scalability.', 'Function', 'Productivity', '// Sample Function content for Sanitize General Data #363
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','function'], 3180, 448, '2026-07-11T20:17:19.094166'),
+('Full Dart SaaS Template #364', 'A high-quality template for mobile applications using Dart. Built for performance and scalability.', 'Template', 'Mobile Applications', '// Sample Template content for Full Dart SaaS Template #364

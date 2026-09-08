@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','education','project'], 53, 1341, '2025-11-17T20:17:19.087833'),
+('Reusable General Logic #155', 'A high-quality code for data science using General. Built for performance and scalability.', 'Code', 'Data Science', '// Sample Code content for Reusable General Logic #155
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','code','premium'], 4361, 1097, '2025-10-19T20:17:19.087855'),
+('Reusable PyTorch Logic #156', 'A high-quality code for ai/ml using PyTorch. Built for performance and scalability.', 'Code', 'AI/ML', '// Sample Code content for Reusable PyTorch Logic #156
+const data = {"tech": "PyTorch", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['pytorch','ai/ml','code','open-source'], 3706, 53, '2026-07-15T20:17:19.087878'),
+('E-commerce with Misc #157', 'A high-quality project for productivity using Misc. Built for performance and scalability.', 'Project', 'Productivity', '// Sample Project content for E-commerce with Misc #157
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','productivity','project'], 2962, 1969, '2026-07-03T20:17:19.087903'),
+('Misc Auth Module #158', 'A high-quality module for marketing using Misc. Built for performance and scalability.', 'Module', 'Marketing', '// Sample Module content for Misc Auth Module #158
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','module'], 4219, 647, '2025-08-30T20:17:19.087924'),
+('Format Bash Date #159', 'A high-quality function for automation using Bash. Built for performance and scalability.', 'Function', 'Automation', '// Sample Function content for Format Bash Date #159

@@ -1,0 +1,10 @@
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','project','premium'], 1364, 345, '2026-08-04T20:17:19.078124'),
+('Animated Misc Button #35', 'A high-quality component for data science using Misc. Built for performance and scalability.', 'Component', 'Data Science', '// Sample Component content for Animated Misc Button #35
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','component'], 3640, 1593, '2025-11-22T20:17:19.080239'),
+('Animated General Button #36', 'A high-quality component for data science using General. Built for performance and scalability.', 'Component', 'Data Science', '// Sample Component content for Animated General Button #36
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','data','component','premium','open-source'], 3571, 840, '2026-01-02T20:17:19.080282'),
+('Expert Website Development Assistant #37', 'A high-quality prompt for website development using Angular. Built for performance and scalability.', 'Prompt', 'Website Development', '// Sample Prompt content for Expert Website Development Assistant #37
+const data = {"tech": "Angular", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['angular','website','prompt'], 2485, 1044, '2026-05-04T20:17:19.080323'),
+('Enterprise General Admin #38', 'A high-quality template for marketing using General. Built for performance and scalability.', 'Template', 'Marketing', '// Sample Template content for Enterprise General Admin #38
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','marketing','template'], 639, 23, '2026-07-08T20:17:19.080348'),
+('E-commerce with General #39', 'A high-quality project for marketing using General. Built for performance and scalability.', 'Project', 'Marketing', '// Sample Project content for E-commerce with General #39

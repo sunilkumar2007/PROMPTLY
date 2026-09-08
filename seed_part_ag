@@ -1,0 +1,10 @@
+const data = {"tech": "Dart", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['dart','mobile','module','open-source'], 3966, 1907, '2025-11-16T20:17:19.078006'),
+('Efficient General Utility #30', 'A high-quality code for content creation using General. Built for performance and scalability.', 'Code', 'Content Creation', '// Sample Code content for Efficient General Utility #30
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','content','code','premium'], 4353, 1114, '2025-09-09T20:17:19.078028'),
+('Interactive React Native Chart #31', 'A high-quality component for mobile applications using React Native. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Interactive React Native Chart #31
+const data = {"tech": "React Native", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['react native','mobile','component','premium'], 3141, 1944, '2025-12-14T20:17:19.078057'),
+('Responsive Flutter Navbar #32', 'A high-quality component for mobile applications using Flutter. Built for performance and scalability.', 'Component', 'Mobile Applications', '// Sample Component content for Responsive Flutter Navbar #32
+const data = {"tech": "Flutter", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['flutter','mobile','component','premium'], 152, 974, '2025-10-30T20:17:19.078079'),
+('Expert Business Assistant #33', 'A high-quality prompt for business using Misc. Built for performance and scalability.', 'Prompt', 'Business', '// Sample Prompt content for Expert Business Assistant #33
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','business','prompt','premium'], 3102, 1935, '2025-11-05T20:17:19.078102'),
+('E-commerce with Angular #34', 'A high-quality project for website development using Angular. Built for performance and scalability.', 'Project', 'Website Development', '// Sample Project content for E-commerce with Angular #34

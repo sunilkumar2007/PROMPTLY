@@ -1,0 +1,10 @@
+-- Seeding 500 resources
+INSERT INTO public.resources (title, description, type, category, content, creator_id, tags, likes_count, saves_count, created_at) VALUES ('Premium Misc Kit #0', 'A high-quality ui/ux for content creation using Misc. Built for performance and scalability.', 'UI/UX', 'Content Creation', '// Sample UI/UX content for Premium Misc Kit #0
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','ui/ux','premium','open-source'], 339, 1111, '2026-08-01T20:17:19.077225'),
+('Misc Payment Integration #1', 'A high-quality module for content creation using Misc. Built for performance and scalability.', 'Module', 'Content Creation', '// Sample Module content for Misc Payment Integration #1
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','module'], 2353, 1875, '2025-10-20T20:17:19.077293'),
+('Efficient Figma Utility #2', 'A high-quality code for ui/ux using Figma. Built for performance and scalability.', 'Code', 'UI/UX', '// Sample Code content for Efficient Figma Utility #2
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','code','open-source'], 1342, 1561, '2025-11-23T20:17:19.077331'),
+('Next.js Auth Module #3', 'A high-quality module for website development using Next.js. Built for performance and scalability.', 'Module', 'Website Development', '// Sample Module content for Next.js Auth Module #3
+const data = {"tech": "Next.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['next.js','website','module'], 4780, 1283, '2025-12-30T20:17:19.077362'),
+('GitHub Actions State Management #4', 'A high-quality module for automation using GitHub Actions. Built for performance and scalability.', 'Module', 'Automation', '// Sample Module content for GitHub Actions State Management #4

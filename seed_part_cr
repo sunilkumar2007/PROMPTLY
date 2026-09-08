@@ -1,0 +1,10 @@
+const data = {"tech": "Node.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['node.js','website','ui/ux','premium','open-source'], 2934, 1169, '2026-03-07T20:17:19.093550'),
+('Personal General Portfolio #345', 'A high-quality template for productivity using General. Built for performance and scalability.', 'Template', 'Productivity', '// Sample Template content for Personal General Portfolio #345
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','template'], 2240, 1034, '2026-04-20T20:17:19.093573'),
+('Enterprise Misc Admin #346', 'A high-quality template for marketing using Misc. Built for performance and scalability.', 'Template', 'Marketing', '// Sample Template content for Enterprise Misc Admin #346
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','marketing','template','premium'], 4579, 512, '2025-12-28T20:17:19.093595'),
+('Reusable Bash Logic #347', 'A high-quality code for automation using Bash. Built for performance and scalability.', 'Code', 'Automation', '// Sample Code content for Reusable Bash Logic #347
+const data = {"tech": "Bash", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['bash','automation','code'], 4337, 725, '2025-08-30T20:17:19.093617'),
+('Generate Next.js Boilerplate #348', 'A high-quality prompt for website development using Next.js. Built for performance and scalability.', 'Prompt', 'Website Development', '// Sample Prompt content for Generate Next.js Boilerplate #348
+const data = {"tech": "Next.js", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['next.js','website','prompt','premium'], 396, 99, '2026-05-26T20:17:19.093638'),
+('Realtime Misc Chat #349', 'A high-quality project for business using Misc. Built for performance and scalability.', 'Project', 'Business', '// Sample Project content for Realtime Misc Chat #349

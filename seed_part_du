@@ -1,0 +1,10 @@
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','code','open-source'], 4967, 859, '2026-06-14T20:17:19.097363'),
+('Enterprise Vue Admin #490', 'A high-quality template for website development using Vue. Built for performance and scalability.', 'Template', 'Website Development', '// Sample Template content for Enterprise Vue Admin #490
+const data = {"tech": "Vue", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['vue','website','template'], 1452, 1102, '2025-09-11T20:17:19.097386'),
+('Modern Flutter Dashboard #491', 'A high-quality ui/ux for mobile applications using Flutter. Built for performance and scalability.', 'UI/UX', 'Mobile Applications', '// Sample UI/UX content for Modern Flutter Dashboard #491
+const data = {"tech": "Flutter", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['flutter','mobile','ui/ux'], 4160, 1768, '2025-09-26T20:17:19.097408'),
+('Expert AI/ML Assistant #492', 'A high-quality prompt for ai/ml using Hugging Face. Built for performance and scalability.', 'Prompt', 'AI/ML', '// Sample Prompt content for Expert AI/ML Assistant #492
+const data = {"tech": "Hugging Face", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['hugging face','ai/ml','prompt','premium'], 2461, 504, '2026-05-16T20:17:19.097431'),
+('Master Bash with this AI Prompt #493', 'A high-quality prompt for automation using Bash. Built for performance and scalability.', 'Prompt', 'Automation', '// Sample Prompt content for Master Bash with this AI Prompt #493
+const data = {"tech": "Bash", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['bash','automation','prompt','premium','open-source'], 605, 1505, '2026-02-26T20:17:19.097453'),
+('Premium GitHub Actions Kit #494', 'A high-quality ui/ux for automation using GitHub Actions. Built for performance and scalability.', 'UI/UX', 'Automation', '// Sample UI/UX content for Premium GitHub Actions Kit #494

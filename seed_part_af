@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','module','open-source'], 278, 1140, '2025-08-28T20:17:19.077890'),
+('Full General SaaS Template #25', 'A high-quality template for business using General. Built for performance and scalability.', 'Template', 'Business', '// Sample Template content for Full General SaaS Template #25
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','template'], 2744, 1771, '2026-02-21T20:17:19.077913'),
+('E-commerce with General #26', 'A high-quality project for productivity using General. Built for performance and scalability.', 'Project', 'Productivity', '// Sample Project content for E-commerce with General #26
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','project','premium'], 4673, 1943, '2025-09-18T20:17:19.077935'),
+('Efficient General Utility #27', 'A high-quality code for business using General. Built for performance and scalability.', 'Code', 'Business', '// Sample Code content for Efficient General Utility #27
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','code','premium','open-source'], 4461, 940, '2026-06-13T20:17:19.077958'),
+('Modern Python Dashboard #28', 'A high-quality ui/ux for automation using Python. Built for performance and scalability.', 'UI/UX', 'Automation', '// Sample UI/UX content for Modern Python Dashboard #28
+const data = {"tech": "Python", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['python','automation','ui/ux','premium'], 477, 1649, '2026-02-10T20:17:19.077983'),
+('Dart Auth Module #29', 'A high-quality module for mobile applications using Dart. Built for performance and scalability.', 'Module', 'Mobile Applications', '// Sample Module content for Dart Auth Module #29

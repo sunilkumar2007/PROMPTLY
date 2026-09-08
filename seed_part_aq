@@ -1,0 +1,10 @@
+const data = {"tech": "PyTorch", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['pytorch','ai/ml','template'], 8, 17, '2025-09-05T20:17:19.085636'),
+('Reusable Framer Motion Logic #80', 'A high-quality code for ui/ux using Framer Motion. Built for performance and scalability.', 'Code', 'UI/UX', '// Sample Code content for Reusable Framer Motion Logic #80
+const data = {"tech": "Framer Motion", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['framer motion','ui/ux','code','open-source'], 914, 74, '2026-07-13T20:17:19.085660'),
+('Minimal GitHub Actions Design #81', 'A high-quality ui/ux for automation using GitHub Actions. Built for performance and scalability.', 'UI/UX', 'Automation', '// Sample UI/UX content for Minimal GitHub Actions Design #81
+const data = {"tech": "GitHub Actions", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['github actions','automation','ui/ux','premium'], 991, 1969, '2026-01-01T20:17:19.085684'),
+('E-commerce with GitHub Actions #82', 'A high-quality project for automation using GitHub Actions. Built for performance and scalability.', 'Project', 'Automation', '// Sample Project content for E-commerce with GitHub Actions #82
+const data = {"tech": "GitHub Actions", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['github actions','automation','project'], 3332, 767, '2025-08-19T20:17:19.085708'),
+('AI TypeScript Tool #83', 'A high-quality project for website development using TypeScript. Built for performance and scalability.', 'Project', 'Website Development', '// Sample Project content for AI TypeScript Tool #83
+const data = {"tech": "TypeScript", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['typescript','website','project'], 4571, 1844, '2026-01-05T20:17:19.085733'),
+('Sanitize GitHub Actions Data #84', 'A high-quality function for automation using GitHub Actions. Built for performance and scalability.', 'Function', 'Automation', '// Sample Function content for Sanitize GitHub Actions Data #84

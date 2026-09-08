@@ -1,0 +1,10 @@
+const data = {"tech": "Svelte", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['svelte','website','template'], 4608, 992, '2025-12-06T20:17:19.096641'),
+('Animated General Button #460', 'A high-quality component for education using General. Built for performance and scalability.', 'Component', 'Education', '// Sample Component content for Animated General Button #460
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','education','component','premium'], 1560, 990, '2025-11-05T20:17:19.096663'),
+('AI Misc Tool #461', 'A high-quality project for content creation using Misc. Built for performance and scalability.', 'Project', 'Content Creation', '// Sample Project content for AI Misc Tool #461
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','content','project'], 1309, 1339, '2026-08-06T20:17:19.096686'),
+('Full Swift SaaS Template #462', 'A high-quality template for mobile applications using Swift. Built for performance and scalability.', 'Template', 'Mobile Applications', '// Sample Template content for Full Swift SaaS Template #462
+const data = {"tech": "Swift", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['swift','mobile','template'], 988, 1741, '2025-08-25T20:17:19.096721'),
+('Modern TypeScript Dashboard #463', 'A high-quality ui/ux for website development using TypeScript. Built for performance and scalability.', 'UI/UX', 'Website Development', '// Sample UI/UX content for Modern TypeScript Dashboard #463
+const data = {"tech": "TypeScript", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['typescript','website','ui/ux','premium'], 2159, 1066, '2026-05-02T20:17:19.096743'),
+('Misc Payment Integration #464', 'A high-quality module for marketing using Misc. Built for performance and scalability.', 'Module', 'Marketing', '// Sample Module content for Misc Payment Integration #464

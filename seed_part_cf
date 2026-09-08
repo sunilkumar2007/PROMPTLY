@@ -1,0 +1,10 @@
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','productivity','code','premium'], 927, 1874, '2026-05-05T20:17:19.091214'),
+('Minimal Misc Design #285', 'A high-quality ui/ux for data science using Misc. Built for performance and scalability.', 'UI/UX', 'Data Science', '// Sample UI/UX content for Minimal Misc Design #285
+const data = {"tech": "Misc", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['misc','data','ui/ux','premium'], 3341, 1926, '2026-02-27T20:17:19.091236'),
+('Personal Figma Portfolio #286', 'A high-quality template for ui/ux using Figma. Built for performance and scalability.', 'Template', 'UI/UX', '// Sample Template content for Personal Figma Portfolio #286
+const data = {"tech": "Figma", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['figma','ui/ux','template','premium'], 300, 1384, '2025-10-17T20:17:19.091339'),
+('Realtime General Chat #287', 'A high-quality project for business using General. Built for performance and scalability.', 'Project', 'Business', '// Sample Project content for Realtime General Chat #287
+const data = {"tech": "General", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['general','business','project','premium'], 3408, 260, '2026-04-29T20:17:19.091364'),
+('Generate Svelte Boilerplate #288', 'A high-quality prompt for website development using Svelte. Built for performance and scalability.', 'Prompt', 'Website Development', '// Sample Prompt content for Generate Svelte Boilerplate #288
+const data = {"tech": "Svelte", "version": "1.0.0"};', '03dbcee7-522c-4865-8119-d59eef27319d', ARRAY['svelte','website','prompt','premium'], 4095, 1531, '2026-03-17T20:17:19.091387'),
+('Interactive Framer Motion Chart #289', 'A high-quality component for ui/ux using Framer Motion. Built for performance and scalability.', 'Component', 'UI/UX', '// Sample Component content for Interactive Framer Motion Chart #289
