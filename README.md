@@ -1,24 +1,39 @@
 <p align="center">
-  <img src="docs/assets/promptly-logo.png" alt="promptly" width="160" />
+  <img src="docs/assets/promptly-logo.png" alt="promptly" width="220" />
 </p>
-
-<h1 align="center">promptly</h1>
 
 <p align="center">
-  <strong>Turn ideas into software, systematically.</strong>
+  <a href="https://drive.google.com/file/d/1AVeumBE4c9h1U3HVQ5pt_aKIhbZiesGb/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/▶_Watch_Product_Demo-Google_Drive-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Product Demo" />
+  </a>
+  <a href="https://promptlyai-amber.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_Live_Platform-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Deployment" />
+  </a>
 </p>
+
+<h3 align="center">
+  “Turn ideas into software, systematically.”
+</h3>
 
 <p align="center">
   AI-powered SDLC Architecture for turning software ideas into executable development workflows.
 </p>
 
 <p align="center">
-  <a href="#how-promptly-works">Workflow</a> •
-  <a href="#the-two-engines">Engines</a> •
-  <a href="#architecture">Architecture</a> •
+  <a href="#the-problem">The Problem</a> •
+  <a href="#how-it-works">How It Works</a> •
+  <a href="#engine-01--sdlc-engine">SDLC Engine</a> •
+  <a href="#engine-02--community--search-engine">Community Engine</a> •
+  <a href="#system-architecture">Architecture</a> •
   <a href="#technology-stack">Tech Stack</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="docs/PITCH_DECK.md">Pitch Deck</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="docs/assets/promptly-engine-hero.png" alt="Promptly Engine Interface" width="950" />
 </p>
 
 ---
@@ -49,7 +64,7 @@ IDEA  ──>  STRUCTURED SDLC  ──>  ORCHESTRATED EXECUTION  ──>  WORKIN
 
 ---
 
-## How Promptly Works
+## How It Works
 
 Promptly orchestrates the entire engineering lifecycle in a continuous pipeline:
 
@@ -89,7 +104,7 @@ Promptly is powered by two interconnected engines:
 The SDLC Engine ingests specifications in any format (SRS, PRD, Markdown, plain text, or UI/UX mockups) and breaks them into executable milestones.
 
 <p align="center">
-  <img src="docs/assets/ai-workspace-dashboard.png" alt="Promptly AI Workspace" width="900" />
+  <img src="docs/assets/ai-workspace-dashboard.png" alt="Promptly AI Workspace" width="950" />
 </p>
 
 ### 1. Flexible Phase Granularity
@@ -99,7 +114,7 @@ Developers choose the exact milestone fidelity required for their project scale:
 - **Enterprise Architectures**: 50 to 100+ fine-grained, verifiable phases.
 
 <p align="center">
-  <img src="docs/assets/sdlc-granularity.png" alt="Phase Granularity Selection" width="550" />
+  <img src="docs/assets/sdlc-granularity.png" alt="Phase Granularity Selection" width="600" />
 </p>
 
 ### 2. Multi-Model Phase Assignment
@@ -130,6 +145,10 @@ Promptly includes a searchable repository of community-verified building blocks 
 ```
 DISCOVER  ──>  INSPECT  ──>  IMPORT TO CONTEXT  ──>  BUILD  ──>  SHARE
 ```
+
+<p align="center">
+  <img src="docs/assets/resource-detail-view.png" alt="Resource Detail View" width="950" />
+</p>
 
 <p align="center">
   <img src="docs/assets/resource-code-viewer.png" alt="Source Code Viewer and Community Resource" width="750" />
@@ -166,13 +185,13 @@ Promptly defines a distinct category in the developer tool landscape:
 | Category | Typical Tools | Primary Focus | Promptly Difference |
 | :--- | :--- | :--- | :--- |
 | **Conversational AI** | ChatGPT, Claude | Chat & unstructured Q&A | Promptly structures output into phased, verifiable software deliverables. |
-| **AI Autocomplete** | GitHub Copilot, Cursor | In-editor code generation | Promptly orchestrates high-level SDLC planning and multi-phase execution. |
+| **AI Autocomplete** | GitHub Copilot, Cursor | Line/file autocomplete | Promptly orchestrates high-level SDLC planning and multi-phase execution. |
 | **App Generators** | v0, Bolt.new | One-shot frontend prototypes | Promptly produces full-stack systems with custom phase granularity (up to 100+ phases). |
 | **Promptly** | **Promptly Platform** | **Software Development Orchestration** | **Connects idea decomposition, model assignment, context memory, and execution.** |
 
 ---
 
-## Technical Architecture
+## System Architecture
 
 ```mermaid
 flowchart LR
@@ -210,7 +229,7 @@ The Promptly repository is built with a modern, high-performance TypeScript stac
 - **Routing & Data**: [TanStack Router](https://tanstack.com/router) (file-based routing), [TanStack Query](https://tanstack.com/query)
 - **Styling & UI**: [Tailwind CSS v4](https://tailwindcss.com/), [Radix UI Primitives](https://www.radix-ui.com/), [Lucide Icons](https://lucide.dev/)
 - **3D & Animation**: [Three.js](https://threejs.org/), [@react-three/fiber](https://docs.pmnd.rs/react-three-fiber), [Framer Motion](https://www.framer.com/motion/)
-- **Backend & Persistence**: [Supabase](https://supabase.com/) (Auth, PostgreSQL, Storage)
+- **Backend & Persistence**: [Supabase](https://supabase.com/) (Auth, PostgreSQL, Storage) with offline-safe mock fallback
 - **AI Integrations**: OpenAI SDK, Anthropic SDK, Google Generative AI SDK, Multi-API Gateway router
 
 ---
@@ -220,7 +239,7 @@ The Promptly repository is built with a modern, high-performance TypeScript stac
 ```
 PROMPTLY/
 ├── docs/                      # Documentation, pitch deck, and visual assets
-│   ├── assets/                # Screenshots and official brand assets
+│   ├── assets/                # High-res product screenshots & official brand assets
 │   ├── branding/              # Reference brand mockups
 │   ├── PITCH_DECK.md          # 9-slide investor & hackathon deck
 │   └── SPECIFICATION.md       # Complete platform technical specification
@@ -277,7 +296,7 @@ npm install
 
 ### 2. Configure Environment
 
-Copy the example environment template and add your Supabase credentials:
+Copy the example environment template (optional for local mock mode):
 
 ```bash
 cp .env.example .env
