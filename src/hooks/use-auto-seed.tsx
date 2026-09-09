@@ -7,9 +7,8 @@ export function useAutoSeed() {
     const seedData = async () => {
       if (localStorage.getItem("auto_seeded_v1")) return;
 
-      const { data: sessionData } = await supabase.auth.getSession();
-      if (!sessionData.session) {
-        toast.error("Auto-Seed Failed: You must be logged in to post resources!");
+      const { data: sessionData } = await supabase.auth.getSession().catch(() => ({ data: { session: null } }));
+      if (!sessionData?.session) {
         return;
       }
 

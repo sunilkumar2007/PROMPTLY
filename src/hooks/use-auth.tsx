@@ -39,22 +39,35 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     }
 
     // Check active sessions and sets the user
-    supabase.auth.getSession().then(({ data: { session } }) => {
-      setSession(session);
-      setUser(session?.user ?? null);
-      setIsLoading(false);
-    });
+    supabase.auth.getSession()
+      .then(({ data }) => {
+        setSession(data?.session ?? null);
+        setUser(data?.session?.user ?? null);
+      })
+      .catch(() => {
+        setSession(null);
+        setUser(null);
+      })
+      .finally(() => {
+        setIsLoading(false);
+      });
 
     // Listen for changes on auth state (sign in, sign out, etc.)
-    const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
-      if (!localStorage.getItem("promptly_demo_user")) {
-        setSession(session);
-        setUser(session?.user ?? null);
-        setIsLoading(false);
-      }
-    });
-
-    return () => subscription.unsubscribe();
+    try {
+      const { data } = supabase.auth.onAuthStateChange((_event, session) => {
+        if (!localStorage.getItem("promptly_demo_user")) {
+          setSession(session ?? null);
+          setUser(session?.user ?? null);
+          setIsLoading(false);
+        }
+      });
+      return () => {
+        data?.subscription?.unsubscribe();
+      };
+    } catch {
+      // Offline / guest mode fallback
+      setIsLoading(false);
+    }
   }, []);
 
   const demoSignIn = (customEmail?: string) => {
