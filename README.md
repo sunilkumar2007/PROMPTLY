@@ -6,7 +6,7 @@
   <a href="https://drive.google.com/file/d/1AVeumBE4c9h1U3HVQ5pt_aKIhbZiesGb/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/▶_Watch_Product_Demo-Google_Drive-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Product Demo" />
   </a>
-  <a href="https://promptlyai-amber.vercel.app" target="_blank">
+  <a href="https://promptlyai-sdlc.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/⚡_Live_Platform-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Deployment" />
   </a>
 </p>
